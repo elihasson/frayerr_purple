@@ -836,3 +836,13 @@
 27.9.2022, 18:50:33 - DEBUG - Getting Gigs 
 27.9.2022, 18:50:43 - DEBUG - Getting Orders 
 27.9.2022, 18:50:56 - WARN - undefinedattempted to perform admin action 
+27.9.2022, 21:46:40 - INFO - Server is running on port: 3030 
+27.9.2022, 21:46:52 - DEBUG - Getting categories 
+27.9.2022, 21:58:49 - DEBUG - Getting categories 
+27.9.2022, 21:58:56 - DEBUG - Getting Gigs 
+27.9.2022, 21:59:09 - DEBUG - Getting categories 
+27.9.2022, 22:06:33 - DEBUG - Getting Gigs 
+28.9.2022, 1:24:44 - DEBUG - Getting categories 
+28.9.2022, 1:57:39 - DEBUG - Getting categories 
+28.9.2022, 2:45:16 - DEBUG - Getting categories 
+28.9.2022, 2:45:18 - DEBUG - Getting categories 
