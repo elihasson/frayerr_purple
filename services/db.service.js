@@ -31,7 +31,7 @@ async function connect() {
         const client = await MongoClient.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 
         // Make the appropriate DB calls
-        await  listDatabases(client);
+        // await  listDatabases(client);
 
         const db = client.db(dbName)
         dbConn = db
