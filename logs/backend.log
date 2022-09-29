@@ -1452,3 +1452,8 @@
 29.9.2022, 13:20:37 - DEBUG - Getting Gigs 
 29.9.2022, 13:22:47 - DEBUG - Getting Orders 
 >>>>>>> 07b7972a71d6cd1e3321b562c4a1359fc881f59d
+29.9.2022, 15:41:09 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:41:33 - INFO - New connected socket [id: RqZOl8vJ3VPC84u6AAAH] 
+29.9.2022, 15:41:37 - DEBUG - Getting categories 
+29.9.2022, 15:41:38 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: RqZOl8vJ3VPC84u6AAAH] 
+29.9.2022, 15:41:43 - INFO - Socket disconnected [id: undefined] 
