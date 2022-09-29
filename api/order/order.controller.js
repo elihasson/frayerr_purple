@@ -1,5 +1,6 @@
 const orderService = require('./order.service.js');
 const logger = require('../../services/logger.service')
+const { emitToUser } = require('../../services/socket.service')
 
 // GET LIST
 async function getOrders(req, res) {
@@ -33,6 +34,11 @@ async function addOrder(req, res) {
     const gig = req.body.gig
     const loginToken = req.cookies.loginToken
     const addedOrder = await orderService.add({order, gig, loginToken})
+    emitToUser({
+      type: 'update-user',
+      data:  'incoming-order',
+      userId: gig.owner._id
+    })
     res.json(addedOrder)
   } catch (err) {
     logger.error('Failed to add order', err)

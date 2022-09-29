@@ -11,6 +11,6 @@ router.get('/', getOrders)
 router.get('/:id', getOrderById)
 router.post('/', requireAuth, addOrder)
 router.put('/:id', requireAuth, updateOrder)
-router.delete('/:id', requireAuth, requireAdmin, removeOrder)
+router.delete('/:id', requireAuth, removeOrder)
 
 module.exports = router
