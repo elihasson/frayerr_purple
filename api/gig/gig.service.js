@@ -79,7 +79,7 @@ async function update(gig) {
 
 function _buildCriteria(filterBy) {
     const criteria = {}
-    const { txt, deliveryTime, minPrice, maxPrice } = filterBy
+    const { txt, deliveryTime, minPrice, maxPrice, category } = filterBy
     if (txt) {
         const regex = new RegExp(txt, 'i')
         criteria.title = { $regex: regex }
@@ -89,6 +89,9 @@ function _buildCriteria(filterBy) {
     }
     if(deliveryTime){
         criteria.daysToMake = {$lte: +deliveryTime }
+    }
+    if(category){
+        criteria.category = {$eq: category }
     }
     console.log('criteria:', criteria)
     console.log('filterBy:', filterBy)
