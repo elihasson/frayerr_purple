@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.872f9c0b.css",
-    "main.js": "/static/js/main.c159be86.js",
+    "main.css": "/static/css/main.11d7b973.css",
+    "main.js": "/static/js/main.6e442a34.js",
     "static/media/Lobster-Regular.ttf": "/static/media/Lobster-Regular.9535d77ef867bef91bc5.ttf",
     "static/media/WorkSans-Regular.ttf": "/static/media/WorkSans-Regular.bb6e3e8193f32a7fc502.ttf",
     "static/media/WorkSans-Medium.ttf": "/static/media/WorkSans-Medium.d7a9738056a6ecbd02c2.ttf",
@@ -29,11 +29,11 @@
     "static/media/voice_over.svg": "/static/media/voice_over.d1651567772d4a07961f2ffb3bbaeb79.svg",
     "static/media/video_explainer.svg": "/static/media/video_explainer.9dedae62bea55caa93500dc23761083d.svg",
     "index.html": "/index.html",
-    "main.872f9c0b.css.map": "/static/css/main.872f9c0b.css.map",
-    "main.c159be86.js.map": "/static/js/main.c159be86.js.map"
+    "main.11d7b973.css.map": "/static/css/main.11d7b973.css.map",
+    "main.6e442a34.js.map": "/static/js/main.6e442a34.js.map"
   },
   "entrypoints": [
-    "static/css/main.872f9c0b.css",
-    "static/js/main.c159be86.js"
+    "static/css/main.11d7b973.css",
+    "static/js/main.6e442a34.js"
   ]
 }

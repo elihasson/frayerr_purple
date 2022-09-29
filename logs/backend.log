@@ -1459,3 +1459,22 @@
 29.9.2022, 15:41:43 - INFO - Socket disconnected [id: undefined] 
 29.9.2022, 16:10:17 - INFO - Server is running on port: 3030 
 29.9.2022, 16:10:19 - INFO - New connected socket [id: f9NdYwi3UChGGmcoAAAB] 
+29.9.2022, 16:11:50 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:22:03 - INFO - New connected socket [id: eAUpKuR5jqzPNX_QAAAD] 
+29.9.2022, 16:22:05 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: eAUpKuR5jqzPNX_QAAAD] 
+29.9.2022, 16:22:05 - DEBUG - Getting categories 
+29.9.2022, 16:22:05 - DEBUG - Getting Orders 
+29.9.2022, 16:26:22 - INFO - Server is running on port: 3030 
+29.9.2022, 16:26:22 - INFO - New connected socket [id: rWQMwLHfopKap0doAAAB] 
+29.9.2022, 16:32:06 - DEBUG - Getting Orders 
+29.9.2022, 16:32:21 - DEBUG - Getting Orders 
+29.9.2022, 17:04:12 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 17:04:13 - INFO - New connected socket [id: JO6zDNgsoOBS9KdkAAAD] 
+29.9.2022, 17:04:13 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: JO6zDNgsoOBS9KdkAAAD] 
+29.9.2022, 17:04:13 - DEBUG - Getting Orders 
+29.9.2022, 17:04:13 - DEBUG - Getting categories 
+29.9.2022, 17:05:19 - DEBUG - Getting Gigs 
+29.9.2022, 17:10:21 - INFO - Server is running on port: 3030 
+29.9.2022, 17:10:21 - INFO - New connected socket [id: 6sbzPTW1AGUod3b9AAAB] 
+29.9.2022, 17:10:37 - INFO - Server is running on port: 3030 
+29.9.2022, 17:10:37 - INFO - New connected socket [id: I7K_rZiW9PPW00CRAAAB] 
