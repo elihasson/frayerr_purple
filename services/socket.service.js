@@ -42,11 +42,15 @@ function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
+        socket.on('order-added', ({from, gig }) => {
+            logger.info(`New order sent from user:${from} to user ${gig.owner.fullname}`)
+        })
 
     })
 }
 
 function emitTo({ type, data, label }) {
+    console.log('type, data, label:', type, data, label)
     if (label) gIo.to('watching:' + label.toString()).emit(type, data)
     else gIo.emit(type, data)
 }
