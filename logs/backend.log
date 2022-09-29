@@ -972,3 +972,243 @@
 27.9.2022, 21:35:51 - DEBUG - Getting Gigs 
 27.9.2022, 21:37:48 - INFO - Server is running on port: 3030 
 28.9.2022, 2:59:41 - INFO - Server is running on port: 3030 
+28.9.2022, 12:32:29 - INFO - Server is running on port: 3030 
+28.9.2022, 12:32:53 - DEBUG - Getting categories 
+28.9.2022, 12:41:09 - DEBUG - Getting categories 
+28.9.2022, 12:45:20 - DEBUG - auth.service - login with username: a 
+28.9.2022, 12:45:20 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+28.9.2022, 12:45:21 - DEBUG - auth.service - login with username: a 
+28.9.2022, 12:45:21 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+28.9.2022, 12:45:31 - DEBUG - Getting Gigs 
+28.9.2022, 12:46:30 - DEBUG - Getting Orders 
+28.9.2022, 12:46:54 - DEBUG - auth.service - login with username: a 
+28.9.2022, 12:46:54 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+28.9.2022, 12:46:54 - DEBUG - auth.service - login with username: a 
+28.9.2022, 12:46:55 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+28.9.2022, 12:47:14 - DEBUG - Getting Orders 
+28.9.2022, 12:56:27 - DEBUG - Getting Gigs 
+28.9.2022, 13:33:39 - DEBUG - Getting categories 
+28.9.2022, 13:48:43 - DEBUG - Getting categories 
+28.9.2022, 13:48:51 - DEBUG - Getting categories 
+28.9.2022, 13:49:38 - DEBUG - Getting categories 
+28.9.2022, 13:49:54 - DEBUG - Getting categories 
+28.9.2022, 13:49:54 - DEBUG - Getting categories 
+28.9.2022, 13:50:39 - DEBUG - Getting categories 
+28.9.2022, 13:52:39 - DEBUG - Getting categories 
+28.9.2022, 13:53:56 - DEBUG - Getting categories 
+28.9.2022, 13:55:01 - DEBUG - Getting categories 
+28.9.2022, 14:12:55 - DEBUG - Getting categories 
+28.9.2022, 14:14:19 - DEBUG - Getting categories 
+28.9.2022, 15:40:19 - INFO - Server is running on port: 3030 
+28.9.2022, 15:40:19 - DEBUG - Getting categories 
+28.9.2022, 15:40:31 - DEBUG - Getting Gigs 
+28.9.2022, 15:41:16 - DEBUG - Getting Gigs 
+28.9.2022, 15:41:24 - DEBUG - Getting Gigs 
+28.9.2022, 15:41:35 - DEBUG - Getting categories 
+28.9.2022, 15:41:51 - DEBUG - Getting Gigs 
+28.9.2022, 15:41:56 - DEBUG - Getting Gigs 
+28.9.2022, 15:42:00 - DEBUG - Getting Gigs 
+28.9.2022, 15:42:04 - DEBUG - Getting Gigs 
+28.9.2022, 15:42:11 - DEBUG - Getting Gigs 
+28.9.2022, 16:05:55 - DEBUG - Getting Gigs 
+28.9.2022, 16:06:04 - DEBUG - Getting Gigs 
+28.9.2022, 16:06:09 - DEBUG - Getting Gigs 
+28.9.2022, 16:06:16 - DEBUG - Getting Gigs 
+28.9.2022, 17:00:56 - DEBUG - Getting Gigs 
+28.9.2022, 17:00:56 - DEBUG - Getting categories 
+28.9.2022, 17:01:19 - DEBUG - Getting Gigs 
+28.9.2022, 17:24:58 - DEBUG - Getting Gigs 
+28.9.2022, 17:25:10 - DEBUG - Getting Gigs 
+28.9.2022, 17:25:23 - DEBUG - Getting Gigs 
+28.9.2022, 17:26:06 - DEBUG - Getting Gigs 
+28.9.2022, 17:26:20 - DEBUG - Getting Gigs 
+28.9.2022, 17:26:37 - DEBUG - Getting Gigs 
+28.9.2022, 17:26:47 - DEBUG - Getting Gigs 
+28.9.2022, 17:26:53 - DEBUG - Getting Gigs 
+28.9.2022, 17:27:04 - DEBUG - Getting Gigs 
+28.9.2022, 17:27:11 - DEBUG - Getting Gigs 
+28.9.2022, 17:27:17 - DEBUG - Getting Gigs 
+28.9.2022, 17:29:14 - DEBUG - Getting Gigs 
+28.9.2022, 17:29:27 - DEBUG - Getting Gigs 
+28.9.2022, 17:29:32 - DEBUG - Getting Gigs 
+28.9.2022, 17:29:37 - DEBUG - Getting Gigs 
+28.9.2022, 18:49:10 - DEBUG - Getting categories 
+28.9.2022, 18:49:10 - DEBUG - Getting Gigs 
+28.9.2022, 18:52:02 - DEBUG - Getting Gigs 
+28.9.2022, 18:55:13 - DEBUG - Getting Gigs 
+28.9.2022, 18:55:40 - DEBUG - Getting Gigs 
+28.9.2022, 18:56:13 - DEBUG - Getting Gigs 
+28.9.2022, 18:56:25 - DEBUG - Getting Gigs 
+28.9.2022, 18:56:25 - DEBUG - Getting categories 
+28.9.2022, 18:58:07 - DEBUG - Getting Gigs 
+28.9.2022, 18:58:07 - DEBUG - Getting categories 
+28.9.2022, 18:58:34 - DEBUG - Getting Gigs 
+28.9.2022, 18:58:41 - DEBUG - Getting Gigs 
+28.9.2022, 18:58:49 - DEBUG - Getting Gigs 
+28.9.2022, 18:58:57 - DEBUG - Getting Gigs 
+28.9.2022, 18:59:05 - DEBUG - Getting Gigs 
+28.9.2022, 18:59:14 - DEBUG - Getting Gigs 
+28.9.2022, 18:59:21 - DEBUG - Getting Gigs 
+28.9.2022, 18:59:31 - DEBUG - Getting Gigs 
+28.9.2022, 19:00:27 - DEBUG - Getting Gigs 
+28.9.2022, 20:45:55 - DEBUG - Getting categories 
+28.9.2022, 20:46:02 - DEBUG - Getting Gigs 
+28.9.2022, 20:46:30 - DEBUG - Getting Gigs 
+28.9.2022, 20:46:48 - DEBUG - Getting Gigs 
+28.9.2022, 20:46:59 - DEBUG - Getting Gigs 
+28.9.2022, 20:47:23 - DEBUG - Getting Gigs 
+28.9.2022, 20:47:41 - DEBUG - Getting Gigs 
+28.9.2022, 20:47:49 - DEBUG - Getting Gigs 
+28.9.2022, 20:50:38 - DEBUG - Getting categories 
+28.9.2022, 20:51:07 - DEBUG - Getting Gigs 
+28.9.2022, 20:51:12 - DEBUG - Getting Gigs 
+28.9.2022, 20:51:36 - DEBUG - Getting Gigs 
+28.9.2022, 20:51:41 - DEBUG - Getting Gigs 
+28.9.2022, 20:51:47 - DEBUG - Getting Gigs 
+28.9.2022, 20:51:54 - DEBUG - Getting Gigs 
+28.9.2022, 20:52:04 - DEBUG - Getting Gigs 
+28.9.2022, 20:52:14 - DEBUG - Getting Gigs 
+28.9.2022, 20:52:38 - DEBUG - Getting Gigs 
+28.9.2022, 20:52:59 - DEBUG - Getting Gigs 
+28.9.2022, 20:54:13 - DEBUG - Getting categories 
+28.9.2022, 20:54:26 - DEBUG - Getting categories 
+28.9.2022, 23:02:57 - DEBUG - Getting Gigs 
+28.9.2022, 23:23:54 - DEBUG - Getting categories 
+28.9.2022, 23:26:24 - DEBUG - Getting categories 
+28.9.2022, 23:28:44 - DEBUG - Getting categories 
+28.9.2022, 23:43:40 - DEBUG - Getting categories 
+28.9.2022, 23:43:55 - DEBUG - Getting categories 
+28.9.2022, 23:44:07 - DEBUG - Getting categories 
+28.9.2022, 23:44:30 - DEBUG - Getting Gigs 
+28.9.2022, 23:44:30 - DEBUG - Getting Gigs 
+28.9.2022, 23:45:56 - DEBUG - Getting categories 
+28.9.2022, 23:48:00 - DEBUG - Getting categories 
+28.9.2022, 23:48:04 - DEBUG - Getting categories 
+28.9.2022, 23:48:38 - DEBUG - Getting Gigs 
+28.9.2022, 23:48:39 - DEBUG - Getting Gigs 
+28.9.2022, 23:49:51 - DEBUG - Getting Gigs 
+28.9.2022, 23:49:52 - DEBUG - Getting Gigs 
+28.9.2022, 23:49:55 - DEBUG - Getting Gigs 
+28.9.2022, 23:49:56 - DEBUG - Getting Gigs 
+29.9.2022, 0:01:19 - DEBUG - Getting Gigs 
+29.9.2022, 0:01:20 - DEBUG - Getting Gigs 
+29.9.2022, 0:16:44 - INFO - New connected socket [id: byzqtnsBGYEuCwLDAAAB] 
+29.9.2022, 0:16:44 - DEBUG - Getting Gigs 
+29.9.2022, 0:16:44 - DEBUG - Getting categories 
+29.9.2022, 0:18:23 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 0:22:41 - INFO - New connected socket [id: Bjpf2NBX9EOVqFF-AAAD] 
+29.9.2022, 0:23:02 - DEBUG - Getting Gigs 
+29.9.2022, 0:23:04 - DEBUG - Getting Gigs 
+29.9.2022, 0:32:13 - DEBUG - Getting Gigs 
+29.9.2022, 0:36:03 - INFO - New connected socket [id: jvGMAkIGuZLoDmGjAAAF] 
+29.9.2022, 0:36:03 - DEBUG - Getting categories 
+29.9.2022, 0:37:35 - DEBUG - Getting Gigs 
+29.9.2022, 0:46:16 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 0:46:17 - INFO - New connected socket [id: uB8NeDmmzepTUGYXAAAH] 
+29.9.2022, 0:46:17 - DEBUG - Getting categories 
+29.9.2022, 0:46:17 - DEBUG - Getting Gigs 
+29.9.2022, 0:47:19 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 0:47:20 - INFO - New connected socket [id: ksk077Fwp2rzP4UkAAAJ] 
+29.9.2022, 0:47:20 - DEBUG - Getting Gigs 
+29.9.2022, 0:47:20 - DEBUG - Getting categories 
+29.9.2022, 1:02:36 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:02:37 - INFO - New connected socket [id: RUxDByRkxjtkwEHQAAAL] 
+29.9.2022, 1:02:37 - DEBUG - Getting categories 
+29.9.2022, 1:02:37 - DEBUG - Getting Gigs 
+29.9.2022, 1:03:33 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:03:34 - INFO - New connected socket [id: lvs3kazf1rGntD9PAAAN] 
+29.9.2022, 1:03:34 - DEBUG - Getting categories 
+29.9.2022, 1:03:34 - DEBUG - Getting Gigs 
+29.9.2022, 1:11:34 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:11:35 - INFO - New connected socket [id: 36vVEWZIN64nTYCRAAAP] 
+29.9.2022, 1:11:35 - DEBUG - Getting Gigs 
+29.9.2022, 1:11:35 - DEBUG - Getting categories 
+29.9.2022, 1:26:54 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:26:55 - INFO - New connected socket [id: BHYx4RyvyqLZtNymAAAR] 
+29.9.2022, 1:26:55 - DEBUG - Getting categories 
+29.9.2022, 1:26:55 - DEBUG - Getting Gigs 
+29.9.2022, 1:27:31 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:27:31 - INFO - New connected socket [id: XUgOvZuLQqEcuW9_AAAT] 
+29.9.2022, 1:27:31 - DEBUG - Getting Gigs 
+29.9.2022, 1:27:31 - DEBUG - Getting categories 
+29.9.2022, 1:27:56 - DEBUG - Getting Gigs 
+29.9.2022, 1:33:46 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:33:47 - INFO - New connected socket [id: DKhG71iizL_7hSZ8AAAV] 
+29.9.2022, 1:33:48 - DEBUG - Getting categories 
+29.9.2022, 1:33:48 - DEBUG - Getting Gigs 
+29.9.2022, 1:34:48 - DEBUG - Getting Gigs 
+29.9.2022, 1:34:55 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:34:55 - INFO - New connected socket [id: dYZM-Ri2eNOvI7LmAAAX] 
+29.9.2022, 1:34:55 - DEBUG - Getting Gigs 
+29.9.2022, 1:34:55 - DEBUG - Getting categories 
+29.9.2022, 1:35:41 - DEBUG - Getting Gigs 
+29.9.2022, 1:35:51 - DEBUG - Getting Gigs 
+29.9.2022, 1:44:09 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:44:10 - INFO - New connected socket [id: yP_B1Ro6DLTLLUiuAAAZ] 
+29.9.2022, 1:44:10 - DEBUG - Getting Gigs 
+29.9.2022, 1:44:10 - DEBUG - Getting categories 
+29.9.2022, 1:44:30 - DEBUG - Getting Gigs 
+29.9.2022, 1:57:32 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 1:57:33 - INFO - New connected socket [id: KiocM2poXaCVxXEHAAAb] 
+29.9.2022, 1:57:33 - DEBUG - Getting Gigs 
+29.9.2022, 1:57:33 - DEBUG - Getting categories 
+29.9.2022, 1:58:05 - DEBUG - Getting Gigs 
+29.9.2022, 1:58:14 - DEBUG - Getting Gigs 
+29.9.2022, 2:04:10 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 2:04:11 - INFO - New connected socket [id: xj1QGQqXtd7cx-nJAAAd] 
+29.9.2022, 2:04:11 - DEBUG - Getting categories 
+29.9.2022, 2:04:11 - DEBUG - Getting Gigs 
+29.9.2022, 2:06:44 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 2:06:44 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 2:14:56 - INFO - New connected socket [id: l_ATsQtoKbms5oLNAAAg] 
+29.9.2022, 2:14:58 - INFO - New connected socket [id: lk-BP94X03A6rf9lAAAh] 
+29.9.2022, 2:16:50 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 2:16:51 - INFO - New connected socket [id: BrJoc3bALu3x-09xAAAj] 
+29.9.2022, 2:16:51 - DEBUG - Getting Gigs 
+29.9.2022, 2:16:51 - DEBUG - Getting categories 
+29.9.2022, 2:17:48 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 2:17:48 - INFO - New connected socket [id: 45LUkWkeHrqd8CnCAAAl] 
+29.9.2022, 2:17:48 - DEBUG - Getting categories 
+29.9.2022, 2:17:48 - DEBUG - Getting Gigs 
+29.9.2022, 2:29:45 - DEBUG - Getting Gigs 
+29.9.2022, 2:30:33 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 2:30:34 - INFO - New connected socket [id: EiK40wyUEWZiHss_AAAn] 
+29.9.2022, 2:30:34 - DEBUG - Getting categories 
+29.9.2022, 2:30:34 - DEBUG - Getting Gigs 
+29.9.2022, 2:35:48 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 2:41:53 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 2:41:54 - INFO - New connected socket [id: phgVrw49NFtJlDBaAAAp] 
+29.9.2022, 2:41:54 - DEBUG - Getting Gigs 
+29.9.2022, 2:41:54 - DEBUG - Getting categories 
+29.9.2022, 10:13:14 - INFO - Server is running on port: 3030 
+29.9.2022, 10:17:54 - INFO - New connected socket [id: HKcUDSCLulo_fSBGAAAB] 
+29.9.2022, 10:17:54 - DEBUG - Getting categories 
+29.9.2022, 10:18:25 - INFO - New connected socket [id: 8C5I4YOG5d9g2kVfAAAD] 
+29.9.2022, 10:18:26 - DEBUG - Getting categories 
+29.9.2022, 10:19:37 - DEBUG - auth.service - login with username: a 
+29.9.2022, 10:19:37 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 10:19:37 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: HKcUDSCLulo_fSBGAAAB] 
+29.9.2022, 10:19:37 - DEBUG - auth.service - login with username: a 
+29.9.2022, 10:19:37 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 10:19:37 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: HKcUDSCLulo_fSBGAAAB] 
+29.9.2022, 10:20:00 - DEBUG - auth.service - login with username: a 
+29.9.2022, 10:20:00 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 10:20:00 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 8C5I4YOG5d9g2kVfAAAD] 
+29.9.2022, 10:20:01 - DEBUG - auth.service - login with username: a 
+29.9.2022, 10:20:01 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 10:20:01 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 8C5I4YOG5d9g2kVfAAAD] 
+29.9.2022, 10:20:16 - DEBUG - Getting Gigs 
+29.9.2022, 10:21:09 - DEBUG - Getting Gigs 
+29.9.2022, 10:21:50 - DEBUG - Getting Orders 
+29.9.2022, 12:21:52 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 12:21:52 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 12:23:12 - INFO - New connected socket [id: sQyPi8ZlqxBMGhxmAAAG] 
+29.9.2022, 12:23:12 - INFO - New connected socket [id: HsJ89FuKEIlgpEbmAAAH] 
+29.9.2022, 12:29:22 - DEBUG - Getting Orders 
+29.9.2022, 12:29:30 - DEBUG - Getting Gigs 
+29.9.2022, 12:29:52 - DEBUG - Getting Orders 
+29.9.2022, 12:30:04 - DEBUG - Getting Orders 
+29.9.2022, 12:30:09 - DEBUG - Getting Gigs 
+29.9.2022, 12:30:13 - DEBUG - Getting Orders 
+29.9.2022, 13:20:37 - DEBUG - Getting Gigs 
+29.9.2022, 13:22:47 - DEBUG - Getting Orders 
