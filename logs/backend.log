@@ -1332,3 +1332,13 @@
 29.9.2022, 16:33:51 - INFO - Socket disconnected [id: undefined] 
 29.9.2022, 16:33:52 - INFO - Socket disconnected [id: undefined] 
 29.9.2022, 16:33:57 - DEBUG - Getting Orders 
+29.9.2022, 16:37:06 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:37:07 - INFO - New connected socket [id: u7YA99cFjS4rExQaAAAt] 
+29.9.2022, 16:37:08 - DEBUG - Getting categories 
+29.9.2022, 16:37:08 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: u7YA99cFjS4rExQaAAAt] 
+29.9.2022, 16:37:08 - DEBUG - Getting Orders 
+29.9.2022, 16:37:10 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:37:11 - INFO - New connected socket [id: QPMf6k4isAeOUrxSAAAv] 
+29.9.2022, 16:37:12 - DEBUG - Getting categories 
+29.9.2022, 16:37:12 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: QPMf6k4isAeOUrxSAAAv] 
+29.9.2022, 16:37:12 - DEBUG - Getting Orders 
