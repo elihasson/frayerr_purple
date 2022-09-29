@@ -8,6 +8,10 @@ async function query(filterBy) {
     try {
         const collection = await dbService.getCollection('order')
         var orders = await collection.find(criteria).toArray()
+        orders = orders.map(order => {
+            order.createdAt = order._id.getTimestamp()
+            return order
+        })
         return orders
     } catch (err) {
         logger.error('cannot find orders', err)
