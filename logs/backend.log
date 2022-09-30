@@ -1851,3 +1851,7 @@
 30.9.2022, 0:03:12 - INFO - Socket disconnected [id: undefined] 
 30.9.2022, 0:03:21 - INFO - Socket disconnected [id: undefined] 
 30.9.2022, 0:03:22 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 9:07:40 - INFO - Server is running on port: 3030 
+30.9.2022, 9:07:42 - INFO - New connected socket [id: 96fsf0uJ7wbNXRZBAAAD] 
+30.9.2022, 9:07:42 - INFO - New connected socket [id: FRU68sM13cp0s8hYAAAE] 
+30.9.2022, 9:07:42 - INFO - New connected socket [id: 1ub4qZcoGgw513U0AAAF] 
