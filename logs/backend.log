@@ -1451,7 +1451,140 @@
 29.9.2022, 12:30:13 - DEBUG - Getting Orders 
 29.9.2022, 13:20:37 - DEBUG - Getting Gigs 
 29.9.2022, 13:22:47 - DEBUG - Getting Orders 
+<<<<<<< HEAD
+29.9.2022, 13:58:22 - DEBUG - Getting Orders 
+29.9.2022, 13:59:56 - DEBUG - Getting Orders 
+29.9.2022, 14:00:02 - DEBUG - Getting Orders 
+29.9.2022, 14:14:14 - DEBUG - Getting Orders 
+29.9.2022, 14:15:11 - DEBUG - Getting Orders 
+29.9.2022, 14:15:17 - DEBUG - Getting Orders 
+29.9.2022, 14:15:26 - DEBUG - Getting Orders 
+29.9.2022, 14:17:41 - INFO - New connected socket [id: p2RgwlLVIYjk3RIbAAAF] 
+29.9.2022, 14:17:41 - DEBUG - Getting categories 
+29.9.2022, 14:17:45 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 14:17:45 - INFO - New connected socket [id: qs0DE4X1C3T9ExdvAAAH] 
+29.9.2022, 14:17:46 - DEBUG - Getting categories 
+29.9.2022, 14:18:01 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 14:18:02 - INFO - New connected socket [id: SjswlC9AMOp_lQVnAAAJ] 
+29.9.2022, 14:18:02 - DEBUG - Getting categories 
+29.9.2022, 14:18:10 - DEBUG - auth.service - login with username: a 
+29.9.2022, 14:18:11 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 14:18:11 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: SjswlC9AMOp_lQVnAAAJ] 
+29.9.2022, 14:18:11 - DEBUG - auth.service - login with username: a 
+29.9.2022, 14:18:11 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 14:18:11 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: SjswlC9AMOp_lQVnAAAJ] 
+29.9.2022, 14:18:23 - DEBUG - Getting Orders 
+29.9.2022, 14:18:25 - DEBUG - Getting Orders 
+29.9.2022, 14:25:28 - INFO - New connected socket [id: OdISB9zWZflttsBFAAAL] 
+29.9.2022, 14:25:29 - DEBUG - Getting categories 
+29.9.2022, 14:25:33 - DEBUG - Getting Gigs 
+29.9.2022, 14:25:34 - DEBUG - Getting Gigs 
+29.9.2022, 14:25:58 - DEBUG - Getting Gigs 
+29.9.2022, 14:25:59 - DEBUG - Getting Gigs 
+29.9.2022, 14:26:05 - DEBUG - Getting Gigs 
+29.9.2022, 14:26:15 - DEBUG - Getting Gigs 
+29.9.2022, 14:26:29 - DEBUG - Getting Gigs 
+29.9.2022, 14:26:58 - DEBUG - Getting Gigs 
+29.9.2022, 14:27:02 - DEBUG - Getting Gigs 
+29.9.2022, 14:27:05 - DEBUG - Getting Gigs 
+29.9.2022, 14:27:08 - DEBUG - Getting Gigs 
+29.9.2022, 14:27:14 - DEBUG - Getting Gigs 
+29.9.2022, 14:27:20 - DEBUG - Getting Gigs 
+29.9.2022, 14:27:21 - DEBUG - Getting Gigs 
+29.9.2022, 14:27:22 - DEBUG - Getting Gigs 
+29.9.2022, 14:29:51 - DEBUG - Getting Orders 
+29.9.2022, 14:30:02 - DEBUG - Getting Orders 
+29.9.2022, 14:39:07 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 14:39:08 - INFO - New connected socket [id: oDptNYgOb72CjLKoAAAN] 
+29.9.2022, 14:39:08 - DEBUG - Getting categories 
+29.9.2022, 14:39:08 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: oDptNYgOb72CjLKoAAAN] 
+29.9.2022, 14:39:08 - DEBUG - Getting Orders 
+29.9.2022, 14:44:49 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 14:44:50 - INFO - New connected socket [id: u5kehLg3GkH9b_67AAAP] 
+29.9.2022, 14:44:50 - DEBUG - Getting categories 
+29.9.2022, 14:44:51 - DEBUG - Getting Gigs 
+29.9.2022, 14:48:12 - DEBUG - Getting Orders 
+29.9.2022, 14:48:21 - DEBUG - Getting Orders 
+29.9.2022, 14:52:30 - DEBUG - Getting Gigs 
+29.9.2022, 14:52:40 - DEBUG - Getting Gigs 
+29.9.2022, 14:53:19 - DEBUG - Getting Orders 
+29.9.2022, 14:54:43 - DEBUG - Getting Orders 
+29.9.2022, 15:08:49 - DEBUG - Getting Orders 
+29.9.2022, 15:08:56 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:08:57 - INFO - New connected socket [id: h63-0XN4dMgWrBB0AAAR] 
+29.9.2022, 15:08:58 - DEBUG - Getting categories 
+29.9.2022, 15:08:58 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: h63-0XN4dMgWrBB0AAAR] 
+29.9.2022, 15:08:58 - DEBUG - Getting Orders 
+29.9.2022, 15:10:13 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:16:35 - INFO - New connected socket [id: fyBYKORdM_mystQEAAAT] 
+29.9.2022, 15:16:36 - DEBUG - Getting categories 
+29.9.2022, 15:30:23 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:30:57 - INFO - New connected socket [id: 1tzddVrKY_p026LbAAAV] 
+29.9.2022, 15:30:58 - DEBUG - Getting categories 
+29.9.2022, 15:30:58 - DEBUG - Getting Gigs 
+29.9.2022, 15:31:08 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:31:34 - INFO - New connected socket [id: rgPDJAoU7837RKiXAAAX] 
+29.9.2022, 15:31:34 - DEBUG - Getting categories 
+29.9.2022, 15:31:34 - DEBUG - Getting Gigs 
+29.9.2022, 15:43:58 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:43:58 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:43:59 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:43:59 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:44:02 - INFO - New connected socket [id: 0Kn1QCliHz1X0m-JAAAa] 
+29.9.2022, 15:44:03 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 0Kn1QCliHz1X0m-JAAAa] 
+29.9.2022, 15:44:03 - INFO - New connected socket [id: l1PbeVSqwPpKApztAAAb] 
+29.9.2022, 15:44:03 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: l1PbeVSqwPpKApztAAAb] 
+29.9.2022, 15:44:05 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 15:44:06 - INFO - New connected socket [id: 8FDq_4EEx5yHS_wMAAAe] 
+29.9.2022, 15:44:07 - DEBUG - Getting categories 
+29.9.2022, 15:44:07 - DEBUG - Getting Gigs 
+29.9.2022, 15:44:07 - INFO - New connected socket [id: u0hxH3b_AuXyeOgCAAAf] 
+29.9.2022, 15:44:08 - DEBUG - Getting categories 
+29.9.2022, 15:44:09 - INFO - New connected socket [id: NhlnGskTExXN26RfAAAi] 
+29.9.2022, 15:44:09 - INFO - New connected socket [id: GRBITEugmk7NgbXmAAAj] 
+29.9.2022, 15:44:09 - DEBUG - Getting categories 
+29.9.2022, 15:44:10 - DEBUG - Getting Orders 
+29.9.2022, 15:44:10 - DEBUG - Getting Orders 
+29.9.2022, 15:44:10 - DEBUG - Getting categories 
+29.9.2022, 15:44:10 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: NhlnGskTExXN26RfAAAi] 
+29.9.2022, 15:44:10 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: GRBITEugmk7NgbXmAAAj] 
+29.9.2022, 15:44:47 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:32:28 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:32:29 - INFO - New connected socket [id: bDeFh6RxmlSRnxoNAAAl] 
+29.9.2022, 16:32:29 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: bDeFh6RxmlSRnxoNAAAl] 
+29.9.2022, 16:32:30 - DEBUG - Getting categories 
+29.9.2022, 16:32:30 - DEBUG - Getting Orders 
+29.9.2022, 16:32:32 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:32:34 - INFO - New connected socket [id: G7onQW4EKIZ2ICsSAAAn] 
+29.9.2022, 16:32:34 - DEBUG - Getting categories 
+29.9.2022, 16:32:34 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: G7onQW4EKIZ2ICsSAAAn] 
+29.9.2022, 16:32:35 - DEBUG - Getting Orders 
+29.9.2022, 16:33:14 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:33:15 - INFO - New connected socket [id: Gk-CNlKH0OpiB8OsAAAp] 
+29.9.2022, 16:33:15 - DEBUG - Getting categories 
+29.9.2022, 16:33:15 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Gk-CNlKH0OpiB8OsAAAp] 
+29.9.2022, 16:33:15 - DEBUG - Getting Orders 
+29.9.2022, 16:33:21 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:33:22 - INFO - New connected socket [id: YgB7ARsdtikg-l-KAAAr] 
+29.9.2022, 16:33:22 - DEBUG - Getting categories 
+29.9.2022, 16:33:22 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: YgB7ARsdtikg-l-KAAAr] 
+29.9.2022, 16:33:22 - DEBUG - Getting Orders 
+29.9.2022, 16:33:51 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:33:52 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:33:57 - DEBUG - Getting Orders 
+29.9.2022, 16:37:06 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:37:07 - INFO - New connected socket [id: u7YA99cFjS4rExQaAAAt] 
+29.9.2022, 16:37:08 - DEBUG - Getting categories 
+29.9.2022, 16:37:08 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: u7YA99cFjS4rExQaAAAt] 
+29.9.2022, 16:37:08 - DEBUG - Getting Orders 
+29.9.2022, 16:37:10 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:37:11 - INFO - New connected socket [id: QPMf6k4isAeOUrxSAAAv] 
+29.9.2022, 16:37:12 - DEBUG - Getting categories 
+29.9.2022, 16:37:12 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: QPMf6k4isAeOUrxSAAAv] 
+29.9.2022, 16:37:12 - DEBUG - Getting Orders 
+=======
 >>>>>>> 07b7972a71d6cd1e3321b562c4a1359fc881f59d
+<<<<<<< HEAD
 29.9.2022, 15:41:09 - INFO - Socket disconnected [id: undefined] 
 29.9.2022, 15:41:33 - INFO - New connected socket [id: RqZOl8vJ3VPC84u6AAAH] 
 29.9.2022, 15:41:37 - DEBUG - Getting categories 
@@ -1769,3 +1902,363 @@
 30.9.2022, 16:04:35 - DEBUG - Getting categories 
 30.9.2022, 16:04:35 - DEBUG - Getting Orders 
 30.9.2022, 16:04:35 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: UiGw0RQfhHvgxUKYAAAb] 
+=======
+>>>>>>> 784e759366166dd7cdd55c1e4937f2b60e23ee6b
+29.9.2022, 16:42:53 - INFO - Server is running on port: 3030 
+29.9.2022, 16:42:54 - INFO - New connected socket [id: p2MbLC4BTI1nEB_LAAAB] 
+29.9.2022, 16:42:55 - INFO - New connected socket [id: WBBciANij4-eU3oYAAAD] 
+29.9.2022, 16:42:55 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: p2MbLC4BTI1nEB_LAAAB] 
+29.9.2022, 16:42:55 - DEBUG - Getting categories 
+29.9.2022, 16:42:55 - DEBUG - Getting Orders 
+29.9.2022, 16:42:59 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:43:00 - INFO - New connected socket [id: FUAA-2ilAGCYEyAyAAAF] 
+29.9.2022, 16:43:01 - DEBUG - Getting categories 
+29.9.2022, 16:43:01 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: FUAA-2ilAGCYEyAyAAAF] 
+29.9.2022, 16:43:01 - DEBUG - Getting Orders 
+29.9.2022, 16:48:37 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:48:37 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:48:41 - INFO - New connected socket [id: M41-fxSeCqdM1OcEAAAH] 
+29.9.2022, 16:48:42 - DEBUG - Getting categories 
+29.9.2022, 16:48:42 - DEBUG - Getting Orders 
+29.9.2022, 16:48:43 - INFO - New connected socket [id: zayL2696guda0CkiAAAJ] 
+29.9.2022, 16:48:43 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: M41-fxSeCqdM1OcEAAAH] 
+29.9.2022, 16:48:44 - DEBUG - Getting categories 
+29.9.2022, 16:48:44 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: zayL2696guda0CkiAAAJ] 
+29.9.2022, 16:48:44 - DEBUG - Getting Orders 
+29.9.2022, 16:48:50 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:48:51 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:48:53 - DEBUG - Getting categories 
+29.9.2022, 16:48:53 - INFO - New connected socket [id: MhU44RrJMIOXwrC2AAAL] 
+29.9.2022, 16:48:53 - DEBUG - Getting Orders 
+29.9.2022, 16:48:54 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: MhU44RrJMIOXwrC2AAAL] 
+29.9.2022, 16:48:55 - INFO - New connected socket [id: -n-pS0WWlDbGvWR0AAAN] 
+29.9.2022, 16:48:56 - DEBUG - Getting categories 
+29.9.2022, 16:48:56 - DEBUG - Getting Orders 
+29.9.2022, 16:48:56 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: -n-pS0WWlDbGvWR0AAAN] 
+29.9.2022, 16:54:12 - INFO - New connected socket [id: DyYIJ1Uo1SWpLq30AAAP] 
+29.9.2022, 16:54:13 - DEBUG - Getting categories 
+29.9.2022, 16:54:15 - DEBUG - Getting Gigs 
+29.9.2022, 16:57:23 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 16:57:24 - INFO - New connected socket [id: RGmSPOZ9rzb9-ESBAAAR] 
+29.9.2022, 16:57:24 - DEBUG - Getting categories 
+29.9.2022, 16:57:25 - DEBUG - Getting Gigs 
+29.9.2022, 17:10:26 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 17:10:28 - INFO - New connected socket [id: iLLkxR5bbDWH8N05AAAT] 
+29.9.2022, 17:10:28 - DEBUG - Getting categories 
+29.9.2022, 17:10:28 - DEBUG - Getting Gigs 
+29.9.2022, 17:10:48 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 17:10:49 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 17:15:20 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 17:15:21 - INFO - New connected socket [id: d3fWIWRS6_kkX7qjAAAV] 
+29.9.2022, 17:15:21 - DEBUG - Getting categories 
+29.9.2022, 17:15:22 - DEBUG - Getting Gigs 
+29.9.2022, 17:26:09 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 17:26:10 - INFO - New connected socket [id: sLF-yysJVAuv3m-mAAAX] 
+29.9.2022, 17:26:11 - DEBUG - Getting categories 
+29.9.2022, 17:26:11 - DEBUG - Getting Gigs 
+29.9.2022, 17:29:33 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 17:29:34 - INFO - New connected socket [id: ZECrJX-YueCYdBqbAAAZ] 
+29.9.2022, 17:29:35 - DEBUG - Getting categories 
+29.9.2022, 17:29:35 - DEBUG - Getting Gigs 
+29.9.2022, 17:33:48 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 17:33:49 - INFO - New connected socket [id: _eRDVjK8XWBeMWUQAAAb] 
+29.9.2022, 17:33:49 - DEBUG - Getting categories 
+29.9.2022, 17:33:50 - DEBUG - Getting Gigs 
+29.9.2022, 18:14:37 - DEBUG - auth.service - login with username: a 
+29.9.2022, 18:14:38 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 18:14:38 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: _eRDVjK8XWBeMWUQAAAb] 
+29.9.2022, 18:14:38 - DEBUG - auth.service - login with username: a 
+29.9.2022, 18:14:39 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 18:14:39 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: _eRDVjK8XWBeMWUQAAAb] 
+29.9.2022, 18:14:50 - INFO - New connected socket [id: dO3HAZ7xBJOijBoWAAAd] 
+29.9.2022, 18:14:51 - DEBUG - Getting categories 
+29.9.2022, 18:15:03 - DEBUG - auth.service - login with username: a 
+29.9.2022, 18:15:03 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 18:15:03 - DEBUG - auth.service - login with username: a 
+29.9.2022, 18:15:03 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: dO3HAZ7xBJOijBoWAAAd] 
+29.9.2022, 18:15:03 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"aharon milman","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+29.9.2022, 18:15:03 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: dO3HAZ7xBJOijBoWAAAd] 
+29.9.2022, 18:15:15 - DEBUG - Getting Gigs 
+29.9.2022, 18:15:27 - DEBUG - Getting Gigs 
+29.9.2022, 18:15:32 - DEBUG - Getting Gigs 
+29.9.2022, 18:15:37 - DEBUG - Getting Gigs 
+29.9.2022, 18:15:39 - DEBUG - Getting Gigs 
+29.9.2022, 18:15:41 - DEBUG - Getting Gigs 
+29.9.2022, 18:15:42 - DEBUG - Getting Gigs 
+29.9.2022, 18:15:51 - DEBUG - Getting Gigs 
+29.9.2022, 18:15:56 - DEBUG - Getting Gigs 
+29.9.2022, 21:04:07 - DEBUG - Getting Gigs 
+29.9.2022, 21:04:18 - DEBUG - Getting Gigs 
+29.9.2022, 21:04:58 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 21:11:09 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:06:05 - INFO - New connected socket [id: ykg3__Iup0mnVICqAAAf] 
+29.9.2022, 22:12:53 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:12:54 - INFO - New connected socket [id: VcCgZwrW0sO57WjBAAAh] 
+29.9.2022, 22:12:55 - DEBUG - Getting categories 
+29.9.2022, 22:12:55 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: VcCgZwrW0sO57WjBAAAh] 
+29.9.2022, 22:14:50 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:14:51 - INFO - New connected socket [id: Y2niduXwIRj9vQmeAAAj] 
+29.9.2022, 22:14:51 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Y2niduXwIRj9vQmeAAAj] 
+29.9.2022, 22:15:15 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:15:16 - INFO - New connected socket [id: uhjEjN1NEXQ0WPWjAAAl] 
+29.9.2022, 22:15:16 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: uhjEjN1NEXQ0WPWjAAAl] 
+29.9.2022, 22:15:32 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:15:33 - INFO - New connected socket [id: 0pxDHJR0JbIFjKUKAAAn] 
+29.9.2022, 22:15:34 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 0pxDHJR0JbIFjKUKAAAn] 
+29.9.2022, 22:15:40 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:15:41 - INFO - New connected socket [id: wquetD21SCA8X1cIAAAp] 
+29.9.2022, 22:15:42 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: wquetD21SCA8X1cIAAAp] 
+29.9.2022, 22:15:42 - DEBUG - Getting categories 
+29.9.2022, 22:15:53 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:15:54 - INFO - New connected socket [id: aHMNgoHrSGJ_M7FaAAAr] 
+29.9.2022, 22:15:54 - DEBUG - Getting categories 
+29.9.2022, 22:15:54 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: aHMNgoHrSGJ_M7FaAAAr] 
+29.9.2022, 22:17:21 - DEBUG - Getting categories 
+29.9.2022, 22:17:24 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:17:25 - INFO - New connected socket [id: qLThmLrZkLM983AUAAAt] 
+29.9.2022, 22:17:26 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: qLThmLrZkLM983AUAAAt] 
+29.9.2022, 22:17:26 - DEBUG - Getting categories 
+29.9.2022, 22:18:21 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:18:22 - INFO - New connected socket [id: 02EkiFOxtOw_nuLlAAAv] 
+29.9.2022, 22:18:23 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 02EkiFOxtOw_nuLlAAAv] 
+29.9.2022, 22:18:23 - DEBUG - Getting categories 
+29.9.2022, 22:19:09 - DEBUG - Getting categories 
+29.9.2022, 22:19:19 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:19:20 - INFO - New connected socket [id: 2woBM7OSf6r3J978AAAx] 
+29.9.2022, 22:19:20 - DEBUG - Getting categories 
+29.9.2022, 22:19:21 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 2woBM7OSf6r3J978AAAx] 
+29.9.2022, 22:21:34 - INFO - New connected socket [id: Ti1xhgeTrQWaedlBAAAz] 
+29.9.2022, 22:21:35 - DEBUG - Getting categories 
+29.9.2022, 22:21:48 - DEBUG - Getting Gigs 
+29.9.2022, 22:21:51 - DEBUG - Getting Gigs 
+29.9.2022, 22:22:03 - DEBUG - Getting Gigs 
+29.9.2022, 22:22:11 - DEBUG - Getting Gigs 
+29.9.2022, 22:25:42 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:25:44 - DEBUG - Getting categories 
+29.9.2022, 22:25:44 - INFO - New connected socket [id: EemK409rBHQ41JSHAAA1] 
+29.9.2022, 22:25:44 - DEBUG - Getting Gigs 
+29.9.2022, 22:25:58 - DEBUG - Getting Gigs 
+29.9.2022, 22:26:50 - DEBUG - Getting Gigs 
+29.9.2022, 22:27:17 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:27:17 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:27:18 - INFO - New connected socket [id: QhyNi9arcDPve8IUAAA4] 
+29.9.2022, 22:27:19 - INFO - New connected socket [id: RES2FuVP1LpZSsHkAAA5] 
+29.9.2022, 22:27:20 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: RES2FuVP1LpZSsHkAAA5] 
+29.9.2022, 22:27:22 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:27:22 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:27:25 - INFO - New connected socket [id: MSm5WEctAMa1UK_4AAA7] 
+29.9.2022, 22:27:26 - DEBUG - Getting categories 
+29.9.2022, 22:27:27 - DEBUG - Getting Gigs 
+29.9.2022, 22:27:27 - INFO - New connected socket [id: sWNmWaffiTkRiHngAAA9] 
+29.9.2022, 22:27:28 - DEBUG - Getting categories 
+29.9.2022, 22:27:28 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: sWNmWaffiTkRiHngAAA9] 
+29.9.2022, 22:27:32 - DEBUG - Getting Gigs 
+29.9.2022, 22:28:05 - DEBUG - Getting Gigs 
+29.9.2022, 22:28:08 - DEBUG - Getting Gigs 
+29.9.2022, 22:28:09 - DEBUG - Getting Gigs 
+29.9.2022, 22:29:31 - DEBUG - Getting Gigs 
+29.9.2022, 22:29:46 - DEBUG - Getting Gigs 
+29.9.2022, 22:29:50 - DEBUG - Getting Gigs 
+29.9.2022, 22:29:55 - DEBUG - Getting Gigs 
+29.9.2022, 22:30:02 - DEBUG - Getting Gigs 
+29.9.2022, 22:30:08 - DEBUG - Getting Gigs 
+29.9.2022, 22:30:11 - DEBUG - Getting Gigs 
+29.9.2022, 22:30:14 - DEBUG - Getting Gigs 
+29.9.2022, 22:30:17 - DEBUG - Getting Gigs 
+29.9.2022, 22:30:19 - DEBUG - Getting Gigs 
+29.9.2022, 22:30:24 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:30:25 - INFO - New connected socket [id: cWbu0WCB8RRR39OEAAA_] 
+29.9.2022, 22:30:25 - DEBUG - Getting categories 
+29.9.2022, 22:30:25 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: cWbu0WCB8RRR39OEAAA_] 
+29.9.2022, 22:30:27 - DEBUG - Getting Gigs 
+29.9.2022, 22:37:46 - DEBUG - Getting Gigs 
+29.9.2022, 22:38:01 - DEBUG - Getting Gigs 
+29.9.2022, 22:38:35 - DEBUG - Getting Gigs 
+29.9.2022, 22:38:45 - DEBUG - Getting Gigs 
+29.9.2022, 22:38:55 - DEBUG - Getting Gigs 
+29.9.2022, 22:39:04 - DEBUG - Getting Gigs 
+29.9.2022, 22:39:08 - DEBUG - Getting Gigs 
+29.9.2022, 22:39:12 - DEBUG - Getting Gigs 
+29.9.2022, 22:39:33 - DEBUG - Getting Gigs 
+29.9.2022, 22:39:42 - DEBUG - Getting Gigs 
+29.9.2022, 22:45:03 - DEBUG - Getting Gigs 
+29.9.2022, 22:45:17 - DEBUG - Getting Gigs 
+29.9.2022, 22:48:04 - DEBUG - Getting Gigs 
+29.9.2022, 22:48:22 - DEBUG - Getting Gigs 
+29.9.2022, 22:48:25 - DEBUG - Getting Gigs 
+29.9.2022, 22:49:06 - DEBUG - Getting Gigs 
+29.9.2022, 22:49:11 - DEBUG - Getting Gigs 
+29.9.2022, 22:49:17 - DEBUG - Getting Gigs 
+29.9.2022, 22:49:21 - DEBUG - Getting Gigs 
+29.9.2022, 22:49:28 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 22:49:28 - INFO - New connected socket [id: kOPP8CqNulWUncqhAABB] 
+29.9.2022, 22:49:29 - DEBUG - Getting categories 
+29.9.2022, 22:49:29 - DEBUG - Getting Gigs 
+29.9.2022, 22:49:29 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: kOPP8CqNulWUncqhAABB] 
+29.9.2022, 22:49:33 - DEBUG - Getting Gigs 
+29.9.2022, 22:49:57 - DEBUG - Getting Gigs 
+29.9.2022, 22:50:30 - DEBUG - Getting Gigs 
+29.9.2022, 22:50:40 - DEBUG - Getting Gigs 
+29.9.2022, 22:50:43 - DEBUG - Getting Gigs 
+29.9.2022, 22:50:46 - DEBUG - Getting Gigs 
+29.9.2022, 22:50:52 - DEBUG - Getting Gigs 
+29.9.2022, 22:51:04 - DEBUG - Getting Gigs 
+29.9.2022, 22:51:40 - DEBUG - Getting Gigs 
+29.9.2022, 22:51:49 - DEBUG - Getting Gigs 
+29.9.2022, 22:51:52 - DEBUG - Getting Gigs 
+29.9.2022, 22:51:57 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:00 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:03 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:05 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:16 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:38 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:40 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:42 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:43 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:50 - DEBUG - Getting Gigs 
+29.9.2022, 22:52:55 - DEBUG - Getting Gigs 
+29.9.2022, 23:08:48 - DEBUG - Getting Gigs 
+29.9.2022, 23:08:58 - DEBUG - Getting Gigs 
+29.9.2022, 23:11:39 - DEBUG - Getting Orders 
+29.9.2022, 23:11:50 - DEBUG - Getting Orders 
+29.9.2022, 23:12:21 - INFO - New connected socket [id: MUo8NM5SZm4V3qdvAABD] 
+29.9.2022, 23:12:22 - DEBUG - Getting categories 
+29.9.2022, 23:13:36 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 23:13:36 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 23:13:36 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 23:39:21 - INFO - New connected socket [id: O5YSOFH1Tp-YtMxJAABH] 
+29.9.2022, 23:39:21 - INFO - New connected socket [id: OJC537PzNAPAUnvHAABI] 
+29.9.2022, 23:39:21 - INFO - New connected socket [id: 0B9UmIzGy91gGIslAABJ] 
+29.9.2022, 23:40:11 - DEBUG - Getting Gigs 
+29.9.2022, 23:40:16 - DEBUG - Getting Gigs 
+29.9.2022, 23:40:27 - DEBUG - Getting Gigs 
+29.9.2022, 23:40:35 - DEBUG - Getting Gigs 
+29.9.2022, 23:40:53 - DEBUG - Getting Gigs 
+29.9.2022, 23:40:56 - DEBUG - Getting Gigs 
+29.9.2022, 23:41:11 - DEBUG - Getting Gigs 
+29.9.2022, 23:41:19 - DEBUG - Getting Gigs 
+29.9.2022, 23:41:28 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 23:41:28 - INFO - New connected socket [id: 78fWPLGOCryTqFm_AABL] 
+29.9.2022, 23:41:29 - DEBUG - Getting categories 
+29.9.2022, 23:41:29 - DEBUG - Getting Gigs 
+29.9.2022, 23:41:31 - DEBUG - Getting Gigs 
+29.9.2022, 23:43:28 - DEBUG - Getting Gigs 
+29.9.2022, 23:43:41 - DEBUG - Getting Gigs 
+29.9.2022, 23:43:51 - DEBUG - Getting Gigs 
+29.9.2022, 23:48:21 - DEBUG - Getting categories 
+29.9.2022, 23:49:48 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 23:49:49 - INFO - New connected socket [id: ocKb12Y0ahSBu33XAABN] 
+29.9.2022, 23:49:49 - DEBUG - Getting categories 
+29.9.2022, 23:50:02 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 23:50:02 - INFO - New connected socket [id: aXWfNOy-c1XOZUogAABP] 
+29.9.2022, 23:50:03 - DEBUG - Getting categories 
+29.9.2022, 23:55:56 - DEBUG - Getting Gigs 
+29.9.2022, 23:56:31 - INFO - Socket disconnected [id: undefined] 
+29.9.2022, 23:56:32 - INFO - New connected socket [id: ZYYq71zDHm3uyWePAABR] 
+29.9.2022, 23:56:33 - DEBUG - Getting categories 
+29.9.2022, 23:56:34 - DEBUG - Getting Gigs 
+29.9.2022, 23:56:42 - DEBUG - Getting Gigs 
+29.9.2022, 23:56:52 - DEBUG - Getting Gigs 
+29.9.2022, 23:59:04 - DEBUG - Getting Gigs 
+29.9.2022, 23:59:19 - DEBUG - Getting Gigs 
+30.9.2022, 0:02:48 - DEBUG - Getting Gigs 
+30.9.2022, 0:02:50 - DEBUG - Getting Gigs 
+30.9.2022, 0:02:52 - DEBUG - Getting Gigs 
+30.9.2022, 0:02:57 - DEBUG - Getting Gigs 
+30.9.2022, 0:03:00 - DEBUG - Getting Gigs 
+30.9.2022, 0:03:08 - DEBUG - Getting Gigs 
+30.9.2022, 0:03:12 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 0:03:21 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 0:03:22 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 10:50:05 - INFO - Server is running on port: 3030 
+30.9.2022, 10:50:08 - INFO - New connected socket [id: X0vBSSH6M9iuj0vnAAAB] 
+30.9.2022, 10:50:18 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 10:50:19 - INFO - New connected socket [id: Qwl_hAagLUEgmH1_AAAD] 
+30.9.2022, 10:50:19 - DEBUG - Getting categories 
+30.9.2022, 10:50:30 - DEBUG - Getting Gigs 
+30.9.2022, 10:51:38 - DEBUG - Getting Gigs 
+30.9.2022, 10:51:50 - DEBUG - Getting Gigs 
+30.9.2022, 10:52:59 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 10:53:23 - INFO - New connected socket [id: _5kVap5gwCDDKD8kAAAF] 
+30.9.2022, 10:53:23 - DEBUG - Getting categories 
+30.9.2022, 10:59:01 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 10:59:02 - INFO - New connected socket [id: ZgS0s3jt32geMmVuAAAH] 
+30.9.2022, 10:59:03 - DEBUG - Getting categories 
+30.9.2022, 11:01:21 - DEBUG - Getting Gigs 
+30.9.2022, 11:05:47 - DEBUG - Getting Gigs 
+30.9.2022, 11:06:04 - DEBUG - Getting Gigs 
+30.9.2022, 11:32:35 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 11:41:47 - INFO - New connected socket [id: eUhnC6hMiFtQx_MDAAAJ] 
+30.9.2022, 11:41:47 - DEBUG - Getting categories 
+30.9.2022, 11:49:34 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 13:09:56 - INFO - Server is running on port: 3030 
+30.9.2022, 13:09:56 - INFO - New connected socket [id: XAHwu5_HDd_LwUukAAAB] 
+30.9.2022, 13:10:02 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 13:10:03 - INFO - New connected socket [id: ySOjxy8FUyZhITIcAAAD] 
+30.9.2022, 13:10:03 - DEBUG - Getting categories 
+30.9.2022, 13:15:38 - DEBUG - Getting Gigs 
+30.9.2022, 13:16:24 - DEBUG - Getting Gigs 
+30.9.2022, 13:16:43 - DEBUG - Getting Gigs 
+30.9.2022, 13:16:56 - DEBUG - Getting Gigs 
+30.9.2022, 13:23:52 - DEBUG - Getting Gigs 
+30.9.2022, 13:24:18 - DEBUG - Getting Gigs 
+30.9.2022, 13:26:12 - DEBUG - Getting Gigs 
+30.9.2022, 13:27:08 - DEBUG - Getting Gigs 
+30.9.2022, 13:27:20 - DEBUG - Getting Gigs 
+30.9.2022, 13:27:28 - DEBUG - Getting Gigs 
+30.9.2022, 13:27:59 - DEBUG - Getting Gigs 
+30.9.2022, 13:28:04 - DEBUG - Getting Gigs 
+30.9.2022, 13:28:17 - DEBUG - Getting Gigs 
+30.9.2022, 13:28:27 - DEBUG - Getting Gigs 
+30.9.2022, 13:28:44 - DEBUG - Getting Gigs 
+30.9.2022, 13:29:13 - DEBUG - Getting Gigs 
+30.9.2022, 13:29:40 - DEBUG - Getting Gigs 
+30.9.2022, 13:29:46 - DEBUG - Getting Gigs 
+30.9.2022, 13:29:56 - DEBUG - Getting Gigs 
+30.9.2022, 13:34:06 - DEBUG - Getting Gigs 
+30.9.2022, 13:37:31 - DEBUG - Getting Gigs 
+30.9.2022, 13:39:11 - DEBUG - Getting Gigs 
+30.9.2022, 13:39:19 - DEBUG - Getting Gigs 
+30.9.2022, 13:39:31 - DEBUG - Getting Gigs 
+30.9.2022, 13:41:37 - DEBUG - Getting Gigs 
+30.9.2022, 13:42:26 - DEBUG - Getting Gigs 
+30.9.2022, 13:43:05 - DEBUG - Getting Gigs 
+30.9.2022, 13:51:55 - DEBUG - Getting Gigs 
+30.9.2022, 13:52:10 - INFO - New connected socket [id: sS54MjtlInZF5nJfAAAF] 
+30.9.2022, 13:52:10 - DEBUG - Getting categories 
+30.9.2022, 13:52:12 - DEBUG - Getting Gigs 
+30.9.2022, 13:52:44 - INFO - New connected socket [id: QukE52Qj0xOIpInbAAAH] 
+30.9.2022, 13:52:44 - DEBUG - Getting categories 
+30.9.2022, 13:52:47 - DEBUG - Getting Gigs 
+30.9.2022, 13:52:57 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 13:53:01 - INFO - New connected socket [id: ocuZhAypx84gq9hsAAAJ] 
+30.9.2022, 13:53:01 - DEBUG - Getting categories 
+30.9.2022, 13:53:04 - DEBUG - Getting Gigs 
+30.9.2022, 13:53:07 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 13:57:59 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 13:58:05 - DEBUG - Getting Gigs 
+30.9.2022, 13:58:08 - DEBUG - Getting Gigs 
+30.9.2022, 13:58:12 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:07 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:10 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:14 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:17 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:22 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:26 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:32 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:36 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:41 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:42 - DEBUG - Getting Gigs 
+30.9.2022, 14:20:46 - DEBUG - Getting Gigs 
+30.9.2022, 14:21:27 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 14:22:09 - INFO - New connected socket [id: F1BTXc8pAaDJg04NAAAL] 
+30.9.2022, 14:22:09 - DEBUG - Getting categories 
+30.9.2022, 14:22:19 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 15:40:41 - INFO - New connected socket [id: gn3YaHjmWzbzughlAAAN] 
+30.9.2022, 15:41:33 - DEBUG - Getting Gigs 
+30.9.2022, 15:41:41 - DEBUG - Getting Gigs 
+30.9.2022, 9:07:40 - INFO - Server is running on port: 3030 
+30.9.2022, 9:07:42 - INFO - New connected socket [id: 96fsf0uJ7wbNXRZBAAAD] 
+30.9.2022, 9:07:42 - INFO - New connected socket [id: FRU68sM13cp0s8hYAAAE] 
+30.9.2022, 9:07:42 - INFO - New connected socket [id: 1ub4qZcoGgw513U0AAAF] 
+>>>>>>> f44d0ce9dec806353dd68fbb27e1f1b9ae602d2e
