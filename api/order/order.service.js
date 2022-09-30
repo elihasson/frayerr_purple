@@ -79,7 +79,6 @@ function _buildCriteria({ userIdSeller, userIdBuyer, status }) {
     }
     console.log('criteria from orderService line76:',criteria );
     return criteria
-
 }
 
 async function _makeOrder(gig, loginToken) {
