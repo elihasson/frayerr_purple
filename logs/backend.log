@@ -3582,3 +3582,70 @@
 >>>>>>> 6db501b2972e3b8aee32e1acf820c3828ba11271
 2.10.2022, 1:04:31 - INFO - Server is running on port: 3030 
 2.10.2022, 1:04:31 - INFO - New connected socket [id: kpVSrx4CFqmhyVAMAAAB] 
+2.10.2022, 1:05:38 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 1:07:43 - INFO - New connected socket [id: _GFuqwBUlP5ZRj-VAAAD] 
+2.10.2022, 1:16:21 - DEBUG - Getting Orders 
+2.10.2022, 1:16:26 - INFO - User loggedout successfully 
+2.10.2022, 1:16:27 - INFO - Removing socket.userId for socket [id: _GFuqwBUlP5ZRj-VAAAD] 
+2.10.2022, 1:16:35 - DEBUG - auth.service - login with username: a 
+2.10.2022, 1:16:35 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+2.10.2022, 1:16:35 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: _GFuqwBUlP5ZRj-VAAAD] 
+2.10.2022, 1:16:35 - DEBUG - auth.service - login with username: a 
+2.10.2022, 1:16:35 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+2.10.2022, 1:16:35 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: _GFuqwBUlP5ZRj-VAAAD] 
+2.10.2022, 1:16:42 - DEBUG - Getting Gigs 
+2.10.2022, 1:16:50 - DEBUG - Getting Gigs 
+2.10.2022, 1:17:03 - INFO - user-watch from socket [id: _GFuqwBUlP5ZRj-VAAAD], on user 633548767a4ae74614f849cb 
+2.10.2022, 1:17:08 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+2.10.2022, 1:17:09 - DEBUG - Getting Orders 
+2.10.2022, 1:17:16 - INFO - User loggedout successfully 
+2.10.2022, 1:17:16 - INFO - Removing socket.userId for socket [id: _GFuqwBUlP5ZRj-VAAAD] 
+2.10.2022, 1:17:21 - DEBUG - auth.service - login with username: b 
+2.10.2022, 1:17:21 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100} 
+2.10.2022, 1:17:21 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: _GFuqwBUlP5ZRj-VAAAD] 
+2.10.2022, 1:17:21 - DEBUG - auth.service - login with username: b 
+2.10.2022, 1:17:21 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100} 
+2.10.2022, 1:17:21 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: _GFuqwBUlP5ZRj-VAAAD] 
+2.10.2022, 1:17:22 - DEBUG - Getting Orders 
+2.10.2022, 1:18:16 - INFO - New connected socket [id: BnCZNDh8dYZwX2FzAAAF] 
+2.10.2022, 1:18:17 - DEBUG - Getting categories 
+2.10.2022, 1:18:21 - DEBUG - auth.service - login with username: a 
+2.10.2022, 1:18:21 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+2.10.2022, 1:18:21 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: BnCZNDh8dYZwX2FzAAAF] 
+2.10.2022, 1:18:22 - DEBUG - auth.service - login with username: a 
+2.10.2022, 1:18:22 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+2.10.2022, 1:18:22 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: BnCZNDh8dYZwX2FzAAAF] 
+2.10.2022, 1:18:29 - DEBUG - Getting Gigs 
+2.10.2022, 1:18:30 - DEBUG - Getting Gigs 
+2.10.2022, 1:18:33 - INFO - user-watch from socket [id: BnCZNDh8dYZwX2FzAAAF], on user 633548767a4ae74614f849cb 
+2.10.2022, 1:18:38 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+2.10.2022, 1:18:38 - DEBUG - Getting Orders 
+2.10.2022, 1:18:44 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 1:18:47 - INFO - New connected socket [id: _bPGt4LB1Vnw_IPLAAAH] 
+2.10.2022, 1:18:47 - DEBUG - Getting Orders 
+2.10.2022, 1:18:48 - DEBUG - Getting categories 
+2.10.2022, 1:18:48 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: _bPGt4LB1Vnw_IPLAAAH] 
+2.10.2022, 1:19:37 - INFO - Server is running on port: 3030 
+2.10.2022, 1:19:39 - INFO - New connected socket [id: IpMs5jWkh4CWcqCmAAAB] 
+2.10.2022, 1:19:39 - INFO - New connected socket [id: vIVbqJ9q-0AOjZDKAAAD] 
+2.10.2022, 1:19:43 - INFO - No active socket for user: 63330f9288db0b425447f2f1 
+2.10.2022, 1:19:49 - DEBUG - Getting Gigs 
+2.10.2022, 1:19:50 - DEBUG - Getting Gigs 
+2.10.2022, 1:19:55 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 1:19:55 - INFO - New connected socket [id: cBuaNFVj1hTVxWFoAAAF] 
+2.10.2022, 1:19:55 - DEBUG - Getting categories 
+2.10.2022, 1:19:55 - DEBUG - Getting Orders 
+2.10.2022, 1:19:56 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: cBuaNFVj1hTVxWFoAAAF] 
+2.10.2022, 1:19:57 - INFO - No active socket for user: 63330f9288db0b425447f2f1 
+2.10.2022, 1:20:01 - DEBUG - Getting Gigs 
+2.10.2022, 1:20:02 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 1:20:02 - INFO - New connected socket [id: F1tGg1uiIpvUZgeKAAAH] 
+2.10.2022, 1:20:03 - DEBUG - Getting categories 
+2.10.2022, 1:20:03 - DEBUG - Getting Orders 
+2.10.2022, 1:20:03 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: F1tGg1uiIpvUZgeKAAAH] 
+2.10.2022, 1:20:04 - DEBUG - Getting Gigs 
+2.10.2022, 1:20:06 - INFO - user-watch from socket [id: IpMs5jWkh4CWcqCmAAAB], on user 633548767a4ae74614f849cb 
+2.10.2022, 1:20:10 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+2.10.2022, 1:20:10 - DEBUG - Getting Orders 
+2.10.2022, 1:20:10 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: F1tGg1uiIpvUZgeKAAAH] 
+2.10.2022, 1:20:11 - DEBUG - Getting Orders 
