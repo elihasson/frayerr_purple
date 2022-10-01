@@ -5,6 +5,7 @@ async function login(req, res) {
     const { username, password } = req.body
     try {
         const user = await authService.login(username, password)
+        delete user.reviews
         const loginToken = authService.getLoginToken(user)
         logger.info('User login: ', user)
         res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true})
