@@ -2262,6 +2262,7 @@
 30.9.2022, 9:07:42 - INFO - New connected socket [id: FRU68sM13cp0s8hYAAAE] 
 30.9.2022, 9:07:42 - INFO - New connected socket [id: 1ub4qZcoGgw513U0AAAF] 
 >>>>>>> f44d0ce9dec806353dd68fbb27e1f1b9ae602d2e
+<<<<<<< HEAD
 30.9.2022, 16:16:21 - DEBUG - Getting Orders 
 30.9.2022, 16:17:05 - DEBUG - Getting Gigs 
 30.9.2022, 16:17:18 - DEBUG - Getting Orders 
@@ -2852,3 +2853,732 @@
 2.10.2022, 1:00:16 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100} 
 2.10.2022, 1:00:16 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: HBE60yYCYsymUGObAAAB] 
 2.10.2022, 1:00:21 - DEBUG - Getting Orders 
+=======
+30.9.2022, 16:14:12 - INFO - Server is running on port: 3030 
+30.9.2022, 16:14:12 - INFO - New connected socket [id: qM-_K6Fdnc4IkSuoAAAB] 
+30.9.2022, 16:14:34 - INFO - Server is running on port: 3030 
+30.9.2022, 16:14:34 - INFO - New connected socket [id: zKqE4uVKd7_HTWJmAAAB] 
+30.9.2022, 16:14:51 - INFO - Server is running on port: 3030 
+30.9.2022, 16:14:52 - INFO - New connected socket [id: v-2c9HhjXT8Kf9U3AAAB] 
+30.9.2022, 17:15:10 - DEBUG - Getting Gigs 
+30.9.2022, 17:16:38 - DEBUG - Getting Gigs 
+30.9.2022, 17:16:43 - DEBUG - Getting Gigs 
+30.9.2022, 18:07:51 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 18:07:52 - INFO - New connected socket [id: H6aWROwwMNEs_L3gAAAD] 
+30.9.2022, 18:07:52 - DEBUG - Getting categories 
+30.9.2022, 18:19:44 - DEBUG - Getting Gigs 
+30.9.2022, 18:19:50 - DEBUG - Getting Gigs 
+30.9.2022, 18:20:04 - DEBUG - Getting Gigs 
+30.9.2022, 18:20:18 - DEBUG - Getting Gigs 
+30.9.2022, 18:22:03 - DEBUG - Getting Gigs 
+30.9.2022, 18:22:13 - DEBUG - Getting Gigs 
+30.9.2022, 18:22:19 - DEBUG - Getting Gigs 
+30.9.2022, 18:22:30 - DEBUG - Getting Gigs 
+30.9.2022, 18:22:34 - DEBUG - Getting Gigs 
+30.9.2022, 18:22:43 - DEBUG - Getting Gigs 
+30.9.2022, 18:22:53 - DEBUG - Getting Gigs 
+30.9.2022, 18:27:11 - INFO - New connected socket [id: LlEwN60LeiUryT7zAAAF] 
+30.9.2022, 18:27:11 - DEBUG - Getting categories 
+30.9.2022, 18:42:22 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 18:42:23 - INFO - New connected socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:42:24 - DEBUG - Getting categories 
+30.9.2022, 18:44:55 - DEBUG - auth.service - login with username: a 
+30.9.2022, 18:44:55 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 18:44:55 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:44:55 - DEBUG - auth.service - login with username: a 
+30.9.2022, 18:44:56 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 18:44:56 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:45:28 - INFO - User loggedout successfully 
+30.9.2022, 18:45:28 - INFO - Removing socket.userId for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:45:36 - DEBUG - auth.service - login with username: b 
+30.9.2022, 18:45:36 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","score":100} 
+30.9.2022, 18:45:36 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:45:36 - DEBUG - auth.service - login with username: b 
+30.9.2022, 18:45:37 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","score":100} 
+30.9.2022, 18:45:37 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:45:39 - INFO - User loggedout successfully 
+30.9.2022, 18:45:39 - INFO - Removing socket.userId for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:50:34 - DEBUG - auth.service - login with username: b 
+30.9.2022, 18:50:35 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","score":100} 
+30.9.2022, 18:50:35 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:50:35 - DEBUG - auth.service - login with username: b 
+30.9.2022, 18:50:35 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","score":100} 
+30.9.2022, 18:50:35 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:50:54 - INFO - User loggedout successfully 
+30.9.2022, 18:50:54 - INFO - Removing socket.userId for socket [id: j8JcpbMaGEyS-86XAAAH] 
+30.9.2022, 18:57:01 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 18:57:02 - INFO - New connected socket [id: nxRsZ1EjYIMlJiUtAAAJ] 
+30.9.2022, 18:57:02 - DEBUG - Getting categories 
+30.9.2022, 19:19:17 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 19:19:18 - INFO - New connected socket [id: 96KLOG0hxEw9oeF8AAAL] 
+30.9.2022, 19:19:18 - DEBUG - Getting categories 
+30.9.2022, 19:23:09 - DEBUG - auth.service - login with username: b 
+30.9.2022, 19:23:09 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","score":100} 
+30.9.2022, 19:23:09 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: 96KLOG0hxEw9oeF8AAAL] 
+30.9.2022, 19:23:09 - DEBUG - auth.service - login with username: b 
+30.9.2022, 19:23:10 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","score":100} 
+30.9.2022, 19:23:10 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: 96KLOG0hxEw9oeF8AAAL] 
+30.9.2022, 19:23:32 - INFO - User loggedout successfully 
+30.9.2022, 19:23:32 - INFO - Removing socket.userId for socket [id: 96KLOG0hxEw9oeF8AAAL] 
+30.9.2022, 19:26:12 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 19:26:13 - INFO - New connected socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:26:13 - DEBUG - Getting categories 
+30.9.2022, 19:26:48 - DEBUG - auth.service - login with username: a 
+30.9.2022, 19:26:48 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 19:26:48 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:26:48 - DEBUG - auth.service - login with username: a 
+30.9.2022, 19:26:48 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 19:26:48 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:27:07 - INFO - User loggedout successfully 
+30.9.2022, 19:27:07 - INFO - Removing socket.userId for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:27:24 - DEBUG - auth.service - signup with username: c, fullname: c 
+30.9.2022, 19:27:25 - DEBUG - auth.route - new account created: {"username":"c","password":"$2b$10$OGXY6fa5DHe1EdTWorji3eHfsvXfIyJlqG4ecGI.Y/WAAVPdNUzbu","fullname":"c","score":100,"_id":"633718ec40cd3951e495be58"} 
+30.9.2022, 19:27:25 - DEBUG - auth.service - login with username: c 
+30.9.2022, 19:27:25 - INFO - User signup: | {"_id":"633718ec40cd3951e495be58","username":"c","fullname":"c","imgUrl":null,"score":100} 
+30.9.2022, 19:27:25 - INFO - Setting socket.userId = 633718ec40cd3951e495be58 for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:27:33 - INFO - User loggedout successfully 
+30.9.2022, 19:27:33 - INFO - Removing socket.userId for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:27:55 - DEBUG - auth.service - login with username: a 
+30.9.2022, 19:27:55 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 19:27:55 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:27:55 - DEBUG - auth.service - login with username: a 
+30.9.2022, 19:27:56 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 19:27:56 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:28:44 - INFO - User loggedout successfully 
+30.9.2022, 19:28:44 - INFO - Removing socket.userId for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:29:24 - DEBUG - auth.service - signup with username: fff, fullname: fff 
+30.9.2022, 19:29:24 - DEBUG - auth.route - new account created: {"username":"fff","password":"$2b$10$QVFMpH77DPCIAcp3IEDx9uTK4CV3sTqQ5rnlkHw04qiCMsR3mDGz.","fullname":"fff","score":100,"_id":"6337196440cd3951e495be59"} 
+30.9.2022, 19:29:24 - DEBUG - auth.service - login with username: fff 
+30.9.2022, 19:29:24 - INFO - User signup: | {"_id":"6337196440cd3951e495be59","username":"fff","fullname":"fff","imgUrl":null,"score":100} 
+30.9.2022, 19:29:24 - INFO - Setting socket.userId = 6337196440cd3951e495be59 for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:29:36 - INFO - User loggedout successfully 
+30.9.2022, 19:29:36 - INFO - Removing socket.userId for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:29:48 - DEBUG - auth.service - signup with username: no, fullname: no 
+30.9.2022, 19:29:48 - DEBUG - auth.route - new account created: {"username":"no","password":"$2b$10$iVDIUsAViTqQVEvBiuShHe0/m4wkXuTNbMOqCmGR19m9cREXMVsIK","fullname":"no","score":100,"_id":"6337197c40cd3951e495be5a"} 
+30.9.2022, 19:29:48 - DEBUG - auth.service - login with username: no 
+30.9.2022, 19:29:48 - INFO - User signup: | {"_id":"6337197c40cd3951e495be5a","username":"no","fullname":"no","imgUrl":null,"score":100} 
+30.9.2022, 19:29:48 - INFO - Setting socket.userId = 6337197c40cd3951e495be5a for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:29:53 - INFO - User loggedout successfully 
+30.9.2022, 19:29:53 - INFO - Removing socket.userId for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:37:44 - DEBUG - auth.service - signup with username: join, fullname: join 
+30.9.2022, 19:37:45 - DEBUG - auth.route - new account created: {"username":"join","password":"$2b$10$bMDRw0LVtwOFKrjdGtAVsuNJor7Ss5NPvEY09g/SPkd8ZZpmCrJbC","fullname":"join","score":100,"_id":"63371b5940cd3951e495be5b"} 
+30.9.2022, 19:37:45 - DEBUG - auth.service - login with username: join 
+30.9.2022, 19:37:45 - INFO - User signup: | {"_id":"63371b5940cd3951e495be5b","username":"join","fullname":"join","imgUrl":null,"score":100} 
+30.9.2022, 19:37:46 - INFO - Setting socket.userId = 63371b5940cd3951e495be5b for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:37:48 - INFO - User loggedout successfully 
+30.9.2022, 19:37:48 - INFO - Removing socket.userId for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:38:06 - DEBUG - auth.service - signup with username: join2, fullname: join2 
+30.9.2022, 19:38:07 - DEBUG - auth.route - new account created: {"username":"join2","password":"$2b$10$g9zD0KXhkQTyTnhyLl/uJuJDQ3CBx8VdAfFUKbE3hIT93lIb0goa6","fullname":"join2","score":100,"_id":"63371b6e40cd3951e495be5c"} 
+30.9.2022, 19:38:07 - DEBUG - auth.service - login with username: join2 
+30.9.2022, 19:38:07 - INFO - User signup: | {"_id":"63371b6e40cd3951e495be5c","username":"join2","fullname":"join2","imgUrl":null,"score":100} 
+30.9.2022, 19:38:07 - INFO - Setting socket.userId = 63371b6e40cd3951e495be5c for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:43:02 - INFO - User loggedout successfully 
+30.9.2022, 19:43:02 - INFO - Removing socket.userId for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:50:43 - DEBUG - auth.service - login with username: a 
+30.9.2022, 19:50:45 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 19:50:45 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:50:45 - DEBUG - auth.service - login with username: a 
+30.9.2022, 19:50:45 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 19:50:45 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:51:01 - INFO - User loggedout successfully 
+30.9.2022, 19:51:01 - INFO - Removing socket.userId for socket [id: 8Sdd0rdlZhABSAuhAAAN] 
+30.9.2022, 19:59:40 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 19:59:40 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:08:52 - INFO - New connected socket [id: S-p9WHQidpsJxX7TAAAQ] 
+30.9.2022, 20:08:52 - INFO - New connected socket [id: nBnu9nB0bLRINMz1AAAR] 
+30.9.2022, 20:11:15 - INFO - Server is running on port: 3030 
+30.9.2022, 20:11:15 - INFO - New connected socket [id: MMWLv9qVRBvvcS70AAAC] 
+30.9.2022, 20:11:15 - INFO - New connected socket [id: oPPopz5yRa5vS9SfAAAD] 
+30.9.2022, 20:11:38 - INFO - Server is running on port: 3030 
+30.9.2022, 20:11:38 - INFO - New connected socket [id: BCXDdPXgVaJjbL-HAAAC] 
+30.9.2022, 20:11:38 - INFO - New connected socket [id: FLd5b0YjYqu2oTCvAAAD] 
+30.9.2022, 20:16:49 - DEBUG - Getting Gigs 
+30.9.2022, 20:16:54 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:16:55 - INFO - New connected socket [id: SHXdexE4SvOYGDw9AAAF] 
+30.9.2022, 20:16:55 - DEBUG - Getting Gigs 
+30.9.2022, 20:16:55 - DEBUG - Getting categories 
+30.9.2022, 20:17:44 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:17:44 - INFO - New connected socket [id: MQR6gGwVdtp_1EsrAAAH] 
+30.9.2022, 20:17:45 - DEBUG - Getting categories 
+30.9.2022, 20:17:45 - DEBUG - Getting Gigs 
+30.9.2022, 20:17:48 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:17:50 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:17:51 - INFO - New connected socket [id: Bh5zJSFPOj9bfKc2AAAJ] 
+30.9.2022, 20:17:51 - DEBUG - Getting categories 
+30.9.2022, 20:18:00 - DEBUG - Getting Gigs 
+30.9.2022, 20:18:46 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:18:48 - INFO - New connected socket [id: ljxblVEymoGLaJkZAAAL] 
+30.9.2022, 20:18:48 - DEBUG - Getting categories 
+30.9.2022, 20:18:48 - DEBUG - Getting Gigs 
+30.9.2022, 20:19:26 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:22:00 - INFO - New connected socket [id: HYBCUxaRRtRtmnRGAAAN] 
+30.9.2022, 20:22:01 - DEBUG - Getting categories 
+30.9.2022, 20:22:04 - DEBUG - Getting Gigs 
+30.9.2022, 20:22:07 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:23:13 - INFO - New connected socket [id: uJL7Z3hr2X5b0Q8nAAAP] 
+30.9.2022, 20:34:08 - DEBUG - Getting categories 
+30.9.2022, 20:34:08 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:34:08 - DEBUG - Getting categories 
+30.9.2022, 20:34:08 - DEBUG - Getting categories 
+30.9.2022, 20:34:08 - DEBUG - Getting categories 
+30.9.2022, 20:34:08 - DEBUG - Getting categories 
+30.9.2022, 20:34:08 - DEBUG - Getting categories 
+30.9.2022, 20:34:08 - DEBUG - Getting categories 
+30.9.2022, 20:34:08 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:08 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:08 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:08 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:08 - INFO - New connected socket [id: Idbs4MU8RmKmcyemAAAn] 
+30.9.2022, 20:34:09 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:09 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:09 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:09 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:10 - DEBUG - Getting Gigs 
+30.9.2022, 20:34:44 - INFO - Server is running on port: 3030 
+30.9.2022, 20:34:44 - INFO - New connected socket [id: NgP42CWR1cbTEYrKAAAB] 
+30.9.2022, 20:34:59 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:35:00 - INFO - New connected socket [id: B_cGgou2AaqQfn3QAAAD] 
+30.9.2022, 20:35:00 - DEBUG - Getting categories 
+30.9.2022, 20:35:12 - DEBUG - Getting Gigs 
+30.9.2022, 20:35:19 - DEBUG - Getting Gigs 
+30.9.2022, 20:36:46 - DEBUG - Getting Gigs 
+30.9.2022, 20:37:12 - DEBUG - Getting Gigs 
+30.9.2022, 20:39:56 - DEBUG - auth.service - signup with username: c, fullname: c 
+30.9.2022, 20:39:56 - ERROR - Failed to signup Username already taken 
+30.9.2022, 20:40:18 - DEBUG - auth.service - signup with username: c, fullname: c 
+30.9.2022, 20:40:18 - ERROR - Failed to signup Username already taken 
+30.9.2022, 20:46:30 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 20:51:44 - INFO - New connected socket [id: FL_iqIat5NaDYf2cAAAF] 
+30.9.2022, 21:06:04 - DEBUG - auth.service - login with username: a 
+30.9.2022, 21:06:05 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 21:06:05 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: FL_iqIat5NaDYf2cAAAF] 
+30.9.2022, 21:06:06 - DEBUG - auth.service - login with username: a 
+30.9.2022, 21:06:06 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+30.9.2022, 21:06:06 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: FL_iqIat5NaDYf2cAAAF] 
+30.9.2022, 21:15:04 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 21:15:53 - INFO - New connected socket [id: BZYREpyV5nwjoP8UAAAH] 
+30.9.2022, 21:15:54 - DEBUG - Getting categories 
+30.9.2022, 21:16:24 - DEBUG - Getting Gigs 
+30.9.2022, 21:28:36 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 22:23:26 - INFO - New connected socket [id: 9sXQCm0Hm74_wreiAAAJ] 
+30.9.2022, 22:28:00 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 23:12:25 - INFO - New connected socket [id: VbS40uzI1ESDVN15AAAL] 
+30.9.2022, 23:13:56 - DEBUG - Getting Gigs 
+30.9.2022, 23:15:33 - DEBUG - Getting Gigs 
+30.9.2022, 23:15:37 - DEBUG - Getting Gigs 
+30.9.2022, 23:18:33 - DEBUG - Getting Gigs 
+30.9.2022, 23:18:54 - DEBUG - Getting Gigs 
+30.9.2022, 23:19:15 - DEBUG - Getting Gigs 
+30.9.2022, 23:19:39 - DEBUG - Getting Gigs 
+30.9.2022, 23:19:59 - DEBUG - Getting Gigs 
+30.9.2022, 23:20:14 - DEBUG - Getting Gigs 
+30.9.2022, 23:20:43 - DEBUG - Getting Gigs 
+30.9.2022, 23:20:53 - DEBUG - Getting Gigs 
+30.9.2022, 23:21:05 - DEBUG - Getting Gigs 
+30.9.2022, 23:21:13 - DEBUG - Getting Gigs 
+30.9.2022, 23:21:23 - DEBUG - Getting Gigs 
+30.9.2022, 23:21:30 - DEBUG - Getting Gigs 
+30.9.2022, 23:21:44 - DEBUG - Getting Gigs 
+30.9.2022, 23:32:12 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 23:32:13 - INFO - New connected socket [id: w9zGeaaDQgnQlLvFAAAN] 
+30.9.2022, 23:32:14 - DEBUG - Getting categories 
+30.9.2022, 23:38:08 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 23:38:10 - INFO - New connected socket [id: M56xCtMAxfpN-0s_AAAP] 
+30.9.2022, 23:38:10 - DEBUG - Getting categories 
+30.9.2022, 23:38:14 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 23:38:15 - INFO - New connected socket [id: KBU0VRc6Edfsk-hfAAAR] 
+30.9.2022, 23:38:16 - DEBUG - Getting categories 
+30.9.2022, 23:44:50 - INFO - Socket disconnected [id: undefined] 
+30.9.2022, 23:45:58 - INFO - New connected socket [id: QsSshU0xJOznucrDAAAT] 
+1.10.2022, 0:07:26 - DEBUG - Getting Gigs 
+1.10.2022, 0:15:26 - DEBUG - Getting Gigs 
+1.10.2022, 0:15:54 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:15:56 - INFO - New connected socket [id: 7MdvE6ilxccKwiTeAAAV] 
+1.10.2022, 0:15:56 - DEBUG - Getting categories 
+1.10.2022, 0:16:24 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:16:25 - INFO - New connected socket [id: BxC6ibOrhq-G7iNgAAAX] 
+1.10.2022, 0:16:26 - DEBUG - Getting categories 
+1.10.2022, 0:16:28 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:16:29 - INFO - New connected socket [id: 8cNI8_JB2d2BMWkcAAAZ] 
+1.10.2022, 0:16:29 - DEBUG - Getting categories 
+1.10.2022, 0:16:33 - DEBUG - Getting Gigs 
+1.10.2022, 0:20:20 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:20:21 - INFO - New connected socket [id: dMz0dC4S-OG5_BZXAAAb] 
+1.10.2022, 0:20:22 - DEBUG - Getting categories 
+1.10.2022, 0:20:22 - DEBUG - Getting Gigs 
+1.10.2022, 0:24:18 - DEBUG - Getting Gigs 
+1.10.2022, 0:24:34 - DEBUG - Getting Gigs 
+1.10.2022, 0:32:51 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:32:54 - DEBUG - Getting categories 
+1.10.2022, 0:32:54 - INFO - New connected socket [id: -4w2o-Og-0lp5yPzAAAd] 
+1.10.2022, 0:32:54 - DEBUG - Getting Gigs 
+1.10.2022, 0:32:55 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:32:55 - INFO - New connected socket [id: u1E-B4yIT_RDMhDkAAAf] 
+1.10.2022, 0:32:56 - DEBUG - Getting Gigs 
+1.10.2022, 0:32:56 - DEBUG - Getting categories 
+1.10.2022, 0:33:13 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:33:17 - INFO - New connected socket [id: O3Ye1lwpLA0fH5ppAAAh] 
+1.10.2022, 0:33:18 - DEBUG - Getting Gigs 
+1.10.2022, 0:33:18 - DEBUG - Getting categories 
+1.10.2022, 0:33:39 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:33:40 - INFO - New connected socket [id: FjBF2fPfRupzIVPIAAAj] 
+1.10.2022, 0:33:41 - DEBUG - Getting categories 
+1.10.2022, 0:33:41 - DEBUG - Getting Gigs 
+1.10.2022, 0:33:59 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:34:01 - DEBUG - Getting categories 
+1.10.2022, 0:34:01 - INFO - New connected socket [id: jKDfxbkL6DYgCvziAAAl] 
+1.10.2022, 0:34:01 - DEBUG - Getting Gigs 
+1.10.2022, 0:34:19 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:34:21 - DEBUG - Getting categories 
+1.10.2022, 0:34:21 - INFO - New connected socket [id: R3uxhMhwKgvL1de3AAAn] 
+1.10.2022, 0:34:22 - DEBUG - Getting Gigs 
+1.10.2022, 0:34:22 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:34:22 - INFO - New connected socket [id: rkxE4aXkJao9ggx3AAAp] 
+1.10.2022, 0:34:23 - DEBUG - Getting Gigs 
+1.10.2022, 0:34:23 - DEBUG - Getting categories 
+1.10.2022, 0:34:39 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:34:40 - INFO - New connected socket [id: qHZeRqVl-Uhzt9ChAAAr] 
+1.10.2022, 0:34:40 - DEBUG - Getting categories 
+1.10.2022, 0:34:41 - DEBUG - Getting Gigs 
+1.10.2022, 0:34:46 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:34:49 - INFO - New connected socket [id: U6h6BODg7m77jo9FAAAt] 
+1.10.2022, 0:34:49 - DEBUG - Getting categories 
+1.10.2022, 0:34:49 - DEBUG - Getting Gigs 
+1.10.2022, 0:34:51 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:34:52 - INFO - New connected socket [id: aYUR6lUq6Z0B-qePAAAv] 
+1.10.2022, 0:34:53 - DEBUG - Getting Gigs 
+1.10.2022, 0:34:53 - DEBUG - Getting categories 
+1.10.2022, 0:35:06 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:35:07 - INFO - New connected socket [id: dTEr2JUB690au754AAAx] 
+1.10.2022, 0:35:08 - DEBUG - Getting categories 
+1.10.2022, 0:35:08 - DEBUG - Getting Gigs 
+1.10.2022, 0:35:22 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:35:23 - INFO - New connected socket [id: P8sImowsPkWqre9XAAAz] 
+1.10.2022, 0:35:23 - DEBUG - Getting categories 
+1.10.2022, 0:35:23 - DEBUG - Getting Gigs 
+1.10.2022, 0:35:40 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:35:41 - INFO - New connected socket [id: 0Up5QHSj0bDO-65cAAA1] 
+1.10.2022, 0:35:42 - DEBUG - Getting categories 
+1.10.2022, 0:35:42 - DEBUG - Getting Gigs 
+1.10.2022, 0:35:44 - INFO - New connected socket [id: Xb02LC-EuHGH6f_0AAA3] 
+1.10.2022, 0:35:44 - DEBUG - Getting Gigs 
+1.10.2022, 0:35:44 - DEBUG - Getting categories 
+1.10.2022, 0:35:45 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:35:47 - INFO - New connected socket [id: aDmhrWtdcpeCngIIAAA5] 
+1.10.2022, 0:35:47 - DEBUG - Getting Gigs 
+1.10.2022, 0:35:48 - DEBUG - Getting categories 
+1.10.2022, 0:35:48 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:35:49 - INFO - New connected socket [id: Fok1lZxa6nzaTA3pAAA7] 
+1.10.2022, 0:35:50 - DEBUG - Getting categories 
+1.10.2022, 0:35:50 - DEBUG - Getting Gigs 
+1.10.2022, 0:36:07 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:36:12 - DEBUG - Getting categories 
+1.10.2022, 0:36:12 - INFO - New connected socket [id: WCE_ZbC8cpmQQAWqAAA9] 
+1.10.2022, 0:36:12 - DEBUG - Getting Gigs 
+1.10.2022, 0:36:15 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:36:16 - INFO - New connected socket [id: 0sKbwvuM_jE-sYTtAAA_] 
+1.10.2022, 0:36:17 - DEBUG - Getting Gigs 
+1.10.2022, 0:36:17 - DEBUG - Getting categories 
+1.10.2022, 0:36:26 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:36:44 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:36:46 - INFO - New connected socket [id: qnP7qIKchERPEqBBAABB] 
+1.10.2022, 0:36:47 - DEBUG - Getting categories 
+1.10.2022, 0:36:47 - DEBUG - Getting Gigs 
+1.10.2022, 0:36:50 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:36:52 - INFO - New connected socket [id: Nm9ozppQEgeRsegcAABD] 
+1.10.2022, 0:36:52 - DEBUG - Getting categories 
+1.10.2022, 0:36:52 - DEBUG - Getting Gigs 
+1.10.2022, 0:37:58 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 0:37:59 - INFO - New connected socket [id: Q59blpe6vjhQ8h2RAABF] 
+1.10.2022, 0:38:00 - DEBUG - Getting categories 
+1.10.2022, 0:38:00 - DEBUG - Getting Gigs 
+1.10.2022, 0:41:06 - DEBUG - auth.service - login with username: a 
+1.10.2022, 0:41:06 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 0:41:06 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Q59blpe6vjhQ8h2RAABF] 
+1.10.2022, 0:41:06 - DEBUG - auth.service - login with username: a 
+1.10.2022, 0:41:07 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 0:41:07 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Q59blpe6vjhQ8h2RAABF] 
+1.10.2022, 0:41:20 - INFO - User loggedout successfully 
+1.10.2022, 0:41:20 - INFO - Removing socket.userId for socket [id: Q59blpe6vjhQ8h2RAABF] 
+1.10.2022, 0:53:20 - DEBUG - Getting Gigs 
+1.10.2022, 12:05:25 - INFO - Server is running on port: 3030 
+1.10.2022, 12:06:20 - INFO - New connected socket [id: 4wQZZW2ZoJtAcgbDAAAB] 
+1.10.2022, 12:06:20 - DEBUG - Getting categories 
+1.10.2022, 12:06:42 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 12:06:49 - INFO - New connected socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:06:50 - DEBUG - Getting categories 
+1.10.2022, 12:20:04 - DEBUG - auth.service - login with username: b 
+1.10.2022, 12:20:06 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 12:20:06 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:20:06 - DEBUG - auth.service - login with username: b 
+1.10.2022, 12:20:06 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 12:20:06 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:24:34 - INFO - User loggedout successfully 
+1.10.2022, 12:24:34 - INFO - Removing socket.userId for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:24:55 - DEBUG - auth.service - login with username: b 
+1.10.2022, 12:24:55 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 12:24:56 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:24:56 - DEBUG - auth.service - login with username: b 
+1.10.2022, 12:24:56 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 12:24:56 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:25:04 - INFO - User loggedout successfully 
+1.10.2022, 12:25:04 - INFO - Removing socket.userId for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:25:19 - DEBUG - auth.service - login with username: b 
+1.10.2022, 12:25:19 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 12:25:19 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:25:20 - DEBUG - auth.service - login with username: b 
+1.10.2022, 12:25:20 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 12:25:20 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:25:26 - INFO - User loggedout successfully 
+1.10.2022, 12:25:26 - INFO - Removing socket.userId for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:25:52 - DEBUG - auth.service - login with username: a 
+1.10.2022, 12:25:52 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 12:25:52 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:25:52 - DEBUG - auth.service - login with username: a 
+1.10.2022, 12:25:53 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 12:25:53 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:32:07 - INFO - User loggedout successfully 
+1.10.2022, 12:32:07 - INFO - Removing socket.userId for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:32:18 - DEBUG - auth.service - login with username: a 
+1.10.2022, 12:32:18 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 12:32:18 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:32:18 - DEBUG - auth.service - login with username: a 
+1.10.2022, 12:32:19 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 12:32:19 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:32:22 - INFO - User loggedout successfully 
+1.10.2022, 12:32:22 - INFO - Removing socket.userId for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:32:34 - DEBUG - auth.service - signup with username: c, fullname: c 
+1.10.2022, 12:32:34 - DEBUG - auth.route - new account created: {"username":"c","password":"$2b$10$V4gl1hNxtiojSAUe2JORwOSXfGwax5atvYOjxXu/gvSzvVh1KqW1O","fullname":"c","score":100,"_id":"6338093226028034104d25ee"} 
+1.10.2022, 12:32:34 - DEBUG - auth.service - login with username: c 
+1.10.2022, 12:32:34 - INFO - User signup: | {"_id":"6338093226028034104d25ee","username":"c","fullname":"c","imgUrl":null,"score":100} 
+1.10.2022, 12:32:34 - INFO - Setting socket.userId = 6338093226028034104d25ee for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:32:38 - INFO - User loggedout successfully 
+1.10.2022, 12:32:38 - INFO - Removing socket.userId for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:38:02 - DEBUG - auth.service - login with username: a 
+1.10.2022, 12:38:02 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 12:38:02 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:38:02 - DEBUG - auth.service - login with username: a 
+1.10.2022, 12:38:03 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 12:38:03 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: zjFfGR6EqG_BT32mAAAD] 
+1.10.2022, 12:52:09 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 12:52:11 - INFO - New connected socket [id: dRT7zPDXaMOMIBrzAAAF] 
+1.10.2022, 12:52:11 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: dRT7zPDXaMOMIBrzAAAF] 
+1.10.2022, 12:52:11 - DEBUG - Getting categories 
+1.10.2022, 12:59:19 - DEBUG - Getting Gigs 
+1.10.2022, 13:02:16 - INFO - User loggedout successfully 
+1.10.2022, 13:02:16 - INFO - Removing socket.userId for socket [id: dRT7zPDXaMOMIBrzAAAF] 
+1.10.2022, 13:03:10 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:22:41 - INFO - New connected socket [id: RBgS1hlL1YmMUc9tAAAH] 
+1.10.2022, 13:25:54 - DEBUG - auth.service - login with username: bla 
+1.10.2022, 13:25:55 - ERROR - Failed to LoginInvalid username or password 
+1.10.2022, 13:25:55 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:25:55 - DEBUG - auth.service - login with username: undefined 
+1.10.2022, 13:25:55 - ERROR - Failed to LoginInvalid username or password 
+1.10.2022, 13:25:56 - INFO - New connected socket [id: SGCJNYKHnfNU8BdFAAAJ] 
+1.10.2022, 13:25:57 - DEBUG - Getting categories 
+1.10.2022, 13:26:28 - DEBUG - auth.service - login with username: bla 
+1.10.2022, 13:26:28 - ERROR - Failed to LoginInvalid username or password 
+1.10.2022, 13:26:28 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:26:28 - DEBUG - auth.service - login with username: undefined 
+1.10.2022, 13:26:28 - ERROR - Failed to LoginInvalid username or password 
+1.10.2022, 13:26:29 - INFO - New connected socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:26:29 - DEBUG - Getting categories 
+1.10.2022, 13:27:03 - DEBUG - auth.service - login with username: a 
+1.10.2022, 13:27:03 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 13:27:03 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:27:03 - DEBUG - auth.service - login with username: a 
+1.10.2022, 13:27:03 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 13:27:03 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:27:11 - INFO - User loggedout successfully 
+1.10.2022, 13:27:11 - INFO - Removing socket.userId for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:33:49 - DEBUG - auth.service - login with username: a 
+1.10.2022, 13:33:49 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 13:33:49 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:33:50 - DEBUG - auth.service - login with username: a 
+1.10.2022, 13:33:50 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 13:33:50 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:34:32 - INFO - New connected socket [id: j5AmePuEH9HgHmYpAAAN] 
+1.10.2022, 13:34:32 - DEBUG - Getting categories 
+1.10.2022, 13:37:53 - DEBUG - Getting Gigs 
+1.10.2022, 13:37:56 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:13 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:13 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:15 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:15 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:38 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:46 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:54 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:56 - DEBUG - Getting Gigs 
+1.10.2022, 13:38:57 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:02 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:39:03 - INFO - New connected socket [id: lEDuMGjUWYWk3Zf-AAAP] 
+1.10.2022, 13:39:03 - DEBUG - Getting categories 
+1.10.2022, 13:39:03 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:06 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:10 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:10 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:12 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:13 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:21 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:40 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:47 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:39:47 - INFO - New connected socket [id: fwwgtEZEYDijxrciAAAR] 
+1.10.2022, 13:39:48 - DEBUG - Getting Gigs 
+1.10.2022, 13:39:48 - DEBUG - Getting categories 
+1.10.2022, 13:39:50 - DEBUG - Getting Gigs 
+1.10.2022, 13:40:05 - DEBUG - Getting Gigs 
+1.10.2022, 13:40:05 - DEBUG - Getting Gigs 
+1.10.2022, 13:40:06 - DEBUG - Getting Gigs 
+1.10.2022, 13:40:07 - DEBUG - Getting Gigs 
+1.10.2022, 13:41:39 - DEBUG - auth.service - login with username: a 
+1.10.2022, 13:41:39 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 13:41:39 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: fwwgtEZEYDijxrciAAAR] 
+1.10.2022, 13:41:39 - DEBUG - auth.service - login with username: a 
+1.10.2022, 13:41:40 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 13:41:40 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: fwwgtEZEYDijxrciAAAR] 
+1.10.2022, 13:41:47 - INFO - User loggedout successfully 
+1.10.2022, 13:41:47 - INFO - Removing socket.userId for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:41:58 - DEBUG - auth.service - login with username: b 
+1.10.2022, 13:41:59 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 13:41:59 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:41:59 - DEBUG - auth.service - login with username: b 
+1.10.2022, 13:41:59 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 13:41:59 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:42:39 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+1.10.2022, 13:42:40 - DEBUG - Getting Orders 
+1.10.2022, 13:42:40 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:43:05 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:43:05 - INFO - New connected socket [id: xcgaL-mR8eKyerw_AAAT] 
+1.10.2022, 13:43:06 - DEBUG - Getting categories 
+1.10.2022, 13:43:06 - DEBUG - Getting Orders 
+1.10.2022, 13:43:06 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: xcgaL-mR8eKyerw_AAAT] 
+1.10.2022, 13:43:13 - DEBUG - Getting Gigs 
+1.10.2022, 13:44:00 - DEBUG - Getting Orders 
+1.10.2022, 13:44:47 - INFO - Emiting event: update-user to user: 63330f9288db0b425447f2f1 socket [id: xcgaL-mR8eKyerw_AAAT] 
+1.10.2022, 13:44:47 - DEBUG - Getting Orders 
+1.10.2022, 13:45:27 - INFO - Emiting event: update-user to user: 63330f9288db0b425447f2f1 socket [id: xcgaL-mR8eKyerw_AAAT] 
+1.10.2022, 13:45:27 - DEBUG - Getting Orders 
+1.10.2022, 13:46:32 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:46:42 - INFO - Emiting event: update-user to user: 63330f9288db0b425447f2f1 socket [id: xcgaL-mR8eKyerw_AAAT] 
+1.10.2022, 13:46:42 - DEBUG - Getting Orders 
+1.10.2022, 13:46:46 - ERROR - Failed to remove order | TypeError: Cannot read properties of null (reading 'buyer') 
+1.10.2022, 13:46:51 - INFO - Emiting event: update-user to user: 63330f9288db0b425447f2f1 socket [id: xcgaL-mR8eKyerw_AAAT] 
+1.10.2022, 13:46:51 - DEBUG - Getting Orders 
+1.10.2022, 13:46:53 - ERROR - Failed to remove order | TypeError: Cannot read properties of null (reading 'buyer') 
+1.10.2022, 13:48:11 - INFO - User loggedout successfully 
+1.10.2022, 13:48:11 - INFO - Removing socket.userId for socket [id: ki-6BAfDLhEMp6sMAAAL] 
+1.10.2022, 13:48:14 - INFO - User loggedout successfully 
+1.10.2022, 13:48:14 - INFO - Removing socket.userId for socket [id: xcgaL-mR8eKyerw_AAAT] 
+1.10.2022, 13:49:16 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:57:32 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:57:33 - INFO - New connected socket [id: FNnYH17mkWsJC4spAAAV] 
+1.10.2022, 13:58:02 - DEBUG - Getting categories 
+1.10.2022, 13:58:07 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 13:58:08 - INFO - New connected socket [id: pkJyT7_nsmoJTSEnAAAX] 
+1.10.2022, 13:58:08 - DEBUG - Getting categories 
+1.10.2022, 14:00:47 - DEBUG - auth.service - login with username: b 
+1.10.2022, 14:00:47 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 14:00:47 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: pkJyT7_nsmoJTSEnAAAX] 
+1.10.2022, 14:00:47 - DEBUG - auth.service - login with username: b 
+1.10.2022, 14:00:48 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 14:00:48 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: pkJyT7_nsmoJTSEnAAAX] 
+1.10.2022, 14:01:00 - DEBUG - Getting Orders 
+1.10.2022, 14:01:59 - INFO - User loggedout successfully 
+1.10.2022, 14:01:59 - INFO - Removing socket.userId for socket [id: pkJyT7_nsmoJTSEnAAAX] 
+1.10.2022, 14:12:18 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 14:29:46 - INFO - New connected socket [id: SneymXz-s4Llr3NOAAAZ] 
+1.10.2022, 14:30:12 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 14:31:21 - INFO - New connected socket [id: FC-KOHKVso7Fo0LQAAAb] 
+1.10.2022, 14:40:46 - DEBUG - auth.service - login with username: b 
+1.10.2022, 14:40:47 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 14:40:47 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: FC-KOHKVso7Fo0LQAAAb] 
+1.10.2022, 14:40:47 - DEBUG - auth.service - login with username: b 
+1.10.2022, 14:40:47 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 14:40:47 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: FC-KOHKVso7Fo0LQAAAb] 
+1.10.2022, 14:40:55 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 14:40:56 - INFO - New connected socket [id: bhP0F7_BJx6AixG3AAAd] 
+1.10.2022, 14:40:56 - DEBUG - Getting categories 
+1.10.2022, 14:40:56 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: bhP0F7_BJx6AixG3AAAd] 
+1.10.2022, 15:08:05 - DEBUG - Getting categories 
+1.10.2022, 15:12:07 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 15:12:08 - INFO - New connected socket [id: 79MKykVi8PvBkLRrAAAf] 
+1.10.2022, 15:12:09 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: 79MKykVi8PvBkLRrAAAf] 
+1.10.2022, 15:12:09 - DEBUG - Getting categories 
+1.10.2022, 15:12:23 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 15:17:44 - INFO - New connected socket [id: cke1avxkki-AgvNAAAAh] 
+1.10.2022, 15:23:43 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 15:23:44 - INFO - New connected socket [id: mibAP9AVOFVppj-ZAAAj] 
+1.10.2022, 15:23:44 - DEBUG - Getting categories 
+1.10.2022, 15:23:44 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: mibAP9AVOFVppj-ZAAAj] 
+1.10.2022, 15:31:04 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 15:31:05 - INFO - New connected socket [id: gH0AEXenu5NbP1EbAAAl] 
+1.10.2022, 15:31:06 - DEBUG - Getting categories 
+1.10.2022, 15:31:06 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: gH0AEXenu5NbP1EbAAAl] 
+1.10.2022, 15:32:34 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 15:32:35 - INFO - New connected socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:32:36 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:32:36 - DEBUG - Getting categories 
+1.10.2022, 15:33:03 - DEBUG - Getting Gigs 
+1.10.2022, 15:33:37 - DEBUG - Getting Gigs 
+1.10.2022, 15:34:46 - INFO - User loggedout successfully 
+1.10.2022, 15:34:46 - INFO - Removing socket.userId for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:36:00 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:36:00 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:36:00 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:36:00 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:36:01 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:36:01 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:36:09 - INFO - User loggedout successfully 
+1.10.2022, 15:36:09 - INFO - Removing socket.userId for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:36:14 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:36:15 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:36:15 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:36:15 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:36:15 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:36:15 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:37:30 - DEBUG - Getting categories 
+1.10.2022, 15:38:55 - INFO - User loggedout successfully 
+1.10.2022, 15:38:55 - INFO - Removing socket.userId for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:41:07 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:41:07 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:41:07 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:41:08 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:41:08 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:41:08 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:43:52 - INFO - User loggedout successfully 
+1.10.2022, 15:43:52 - INFO - Removing socket.userId for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:43:57 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:43:57 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:43:57 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:43:57 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:43:58 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:43:58 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:44:46 - INFO - User loggedout successfully 
+1.10.2022, 15:44:46 - INFO - Removing socket.userId for socket [id: BLoxVayEqG9NZH2XAAAn] 
+1.10.2022, 15:46:06 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 15:51:30 - INFO - New connected socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 15:52:22 - DEBUG - auth.service - login with username: a 
+1.10.2022, 15:52:23 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 15:52:23 - DEBUG - auth.service - login with username: a 
+1.10.2022, 15:52:23 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 15:52:23 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 15:52:23 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 15:56:58 - INFO - User loggedout successfully 
+1.10.2022, 15:56:58 - INFO - Removing socket.userId for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 15:57:02 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:57:02 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:57:02 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 15:57:03 - DEBUG - auth.service - login with username: b 
+1.10.2022, 15:57:03 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 15:57:03 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 15:57:08 - INFO - User loggedout successfully 
+1.10.2022, 15:57:08 - INFO - Removing socket.userId for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 16:04:33 - DEBUG - auth.service - login with username: a 
+1.10.2022, 16:04:34 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 16:04:34 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 16:04:34 - DEBUG - auth.service - login with username: a 
+1.10.2022, 16:04:35 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 16:04:35 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 16:09:16 - DEBUG - Getting Gigs 
+1.10.2022, 16:09:28 - DEBUG - Getting Gigs 
+1.10.2022, 16:09:40 - INFO - User loggedout successfully 
+1.10.2022, 16:09:40 - INFO - Removing socket.userId for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 16:13:46 - DEBUG - auth.service - login with username: a 
+1.10.2022, 16:13:46 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 16:13:46 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 16:13:47 - DEBUG - auth.service - login with username: a 
+1.10.2022, 16:13:47 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 16:13:47 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 16:17:39 - INFO - User loggedout successfully 
+1.10.2022, 16:17:39 - INFO - Removing socket.userId for socket [id: cL5UlOc6h7UDjN9uAAAp] 
+1.10.2022, 16:17:42 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 16:18:52 - INFO - New connected socket [id: 3579TokIAxEEmip8AAAr] 
+1.10.2022, 16:18:52 - DEBUG - Getting categories 
+1.10.2022, 16:18:58 - DEBUG - auth.service - login with username: b 
+1.10.2022, 16:18:58 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 16:18:58 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: 3579TokIAxEEmip8AAAr] 
+1.10.2022, 16:18:58 - DEBUG - auth.service - login with username: b 
+1.10.2022, 16:18:58 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 16:18:58 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: 3579TokIAxEEmip8AAAr] 
+1.10.2022, 16:21:14 - DEBUG - Getting Gigs 
+1.10.2022, 16:21:40 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 16:21:41 - INFO - New connected socket [id: Pb2hZ7nRGIPfxgsCAAAt] 
+1.10.2022, 16:21:41 - DEBUG - Getting categories 
+1.10.2022, 16:21:41 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: Pb2hZ7nRGIPfxgsCAAAt] 
+1.10.2022, 16:21:41 - DEBUG - Getting Gigs 
+1.10.2022, 16:31:22 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 18:49:44 - INFO - Server is running on port: 3030 
+1.10.2022, 18:50:57 - INFO - New connected socket [id: n1Ws2-tlSwzmplOVAAAB] 
+1.10.2022, 18:50:58 - DEBUG - Getting categories 
+1.10.2022, 19:00:03 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 19:00:05 - INFO - New connected socket [id: M5qaDi_NNv3dnnJSAAAD] 
+1.10.2022, 19:00:05 - DEBUG - Getting categories 
+1.10.2022, 19:07:56 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 19:07:57 - INFO - New connected socket [id: CFUNZDhS2r9olcK4AAAF] 
+1.10.2022, 19:07:57 - DEBUG - Getting categories 
+1.10.2022, 19:13:52 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 19:13:53 - INFO - New connected socket [id: GQq9dg5QygSvnfUWAAAH] 
+1.10.2022, 19:14:44 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 19:16:08 - INFO - New connected socket [id: eGj2pTzIAYZp1_b_AAAJ] 
+1.10.2022, 19:16:09 - DEBUG - Getting categories 
+1.10.2022, 19:40:30 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 19:40:31 - INFO - New connected socket [id: Qr7dNZ6GYU5xN_RwAAAL] 
+1.10.2022, 19:40:31 - DEBUG - Getting categories 
+1.10.2022, 19:40:59 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 19:41:00 - INFO - New connected socket [id: TS1r-rp7JgF1oI5fAAAN] 
+1.10.2022, 19:41:00 - DEBUG - Getting categories 
+1.10.2022, 21:00:16 - INFO - New connected socket [id: FzTUypFILIRJyivLAAAP] 
+1.10.2022, 21:00:16 - DEBUG - Getting categories 
+1.10.2022, 21:01:56 - DEBUG - auth.service - login with username: a 
+1.10.2022, 21:01:56 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 21:01:56 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: TS1r-rp7JgF1oI5fAAAN] 
+1.10.2022, 21:01:56 - DEBUG - auth.service - login with username: a 
+1.10.2022, 21:01:57 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 21:01:57 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: TS1r-rp7JgF1oI5fAAAN] 
+1.10.2022, 21:02:11 - DEBUG - auth.service - login with username: b 
+1.10.2022, 21:02:12 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/079e914e9f28e8269dee6bb109ef85a1-1570850131880/40fbde37-316f-4de2-9ca5-07b1300360d2.jpg","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/e3f2db9a69a2cc7b69c653d3185b6ba9-1592756841572/fbdf1383-4893-4f94-a3c9-a324c68aca4f.jpg","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/aa1d8903ba72305648ba75fc6e81d9b7-1633524346738/5f95f4e0-24ca-4a86-8860-d01d81fd7c4a.jpg","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/ba950f423b857c85340d9e0f22e57bce-1624271979495/ce05a5ca-dcd2-406a-8a20-e41bcb0a429c.jpg","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/aeb50869a3c9aa4f4d01a4a5076780d8-1597753670171/66b99c65-4308-4b81-a088-b0610d5d75b6.jpg","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 21:02:12 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: FzTUypFILIRJyivLAAAP] 
+1.10.2022, 21:02:12 - DEBUG - auth.service - login with username: b 
+1.10.2022, 21:02:12 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/079e914e9f28e8269dee6bb109ef85a1-1570850131880/40fbde37-316f-4de2-9ca5-07b1300360d2.jpg","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/e3f2db9a69a2cc7b69c653d3185b6ba9-1592756841572/fbdf1383-4893-4f94-a3c9-a324c68aca4f.jpg","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/aa1d8903ba72305648ba75fc6e81d9b7-1633524346738/5f95f4e0-24ca-4a86-8860-d01d81fd7c4a.jpg","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/ba950f423b857c85340d9e0f22e57bce-1624271979495/ce05a5ca-dcd2-406a-8a20-e41bcb0a429c.jpg","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/aeb50869a3c9aa4f4d01a4a5076780d8-1597753670171/66b99c65-4308-4b81-a088-b0610d5d75b6.jpg","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 21:02:12 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: FzTUypFILIRJyivLAAAP] 
+1.10.2022, 21:18:07 - INFO - New connected socket [id: M1pl1TyGx7zjG7hbAAAR] 
+1.10.2022, 21:18:08 - DEBUG - Getting categories 
+1.10.2022, 21:18:10 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 21:22:34 - DEBUG - auth.service - login with username: b 
+1.10.2022, 21:22:35 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/079e914e9f28e8269dee6bb109ef85a1-1570850131880/40fbde37-316f-4de2-9ca5-07b1300360d2.jpg","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/e3f2db9a69a2cc7b69c653d3185b6ba9-1592756841572/fbdf1383-4893-4f94-a3c9-a324c68aca4f.jpg","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/aa1d8903ba72305648ba75fc6e81d9b7-1633524346738/5f95f4e0-24ca-4a86-8860-d01d81fd7c4a.jpg","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/ba950f423b857c85340d9e0f22e57bce-1624271979495/ce05a5ca-dcd2-406a-8a20-e41bcb0a429c.jpg","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/aeb50869a3c9aa4f4d01a4a5076780d8-1597753670171/66b99c65-4308-4b81-a088-b0610d5d75b6.jpg","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 21:22:35 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: M1pl1TyGx7zjG7hbAAAR] 
+1.10.2022, 21:22:35 - DEBUG - auth.service - login with username: b 
+1.10.2022, 21:22:35 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100,"reviews":[{"name":"tobiaspille300","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/079e914e9f28e8269dee6bb109ef85a1-1570850131880/40fbde37-316f-4de2-9ca5-07b1300360d2.jpg","country":"Thailand","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1f9-1f1ed.png","review":"Tobin ist a super kind artist doing the process he was super professional and only took him 1 shot to deliver a perfect result ! Highly recommended work with this guy !","rate":5,"reviewedAt":"Published 2 months ago"},{"name":"liam31","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/e3f2db9a69a2cc7b69c653d3185b6ba9-1592756841572/fbdf1383-4893-4f94-a3c9-a324c68aca4f.jpg","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"I requested a slightly earlier delivery on this and once again Tobin came through and provided a fantastic delivery. Thanks so much!","rate":5,"reviewedAt":"Published 3 weeks ago"},{"name":"liam31","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/aa1d8903ba72305648ba75fc6e81d9b7-1633524346738/5f95f4e0-24ca-4a86-8860-d01d81fd7c4a.jpg","country":"United Kingdom","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ec-1f1e7.png","review":"Tobin is amazing and extremely talented. This is the second time working with him and he has been a pleasure yet again!","rate":4,"reviewedAt":"Published 3 weeks ago"},{"name":"larsonraz","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/ba950f423b857c85340d9e0f22e57bce-1624271979495/ce05a5ca-dcd2-406a-8a20-e41bcb0a429c.jpg","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"Very detailed","rate":5,"reviewedAt":"Published 1 week ago"},{"name":"stevekaszycki","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/aeb50869a3c9aa4f4d01a4a5076780d8-1597753670171/66b99c65-4308-4b81-a088-b0610d5d75b6.jpg","country":"United States","flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png","review":"very nice portrait, very good quality.","rate":5,"reviewedAt":"Published 2 weeks ago"}]} 
+1.10.2022, 21:22:35 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: M1pl1TyGx7zjG7hbAAAR] 
+1.10.2022, 22:34:57 - INFO - User loggedout successfully 
+1.10.2022, 22:34:58 - INFO - Removing socket.userId for socket [id: M1pl1TyGx7zjG7hbAAAR] 
+1.10.2022, 22:35:14 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 22:35:34 - INFO - User loggedout successfully 
+1.10.2022, 22:35:34 - INFO - Removing socket.userId for socket [id: TS1r-rp7JgF1oI5fAAAN] 
+1.10.2022, 22:56:57 - INFO - Server is running on port: 3030 
+1.10.2022, 22:57:02 - INFO - New connected socket [id: nKuH7gg_LC48qo_fAAAB] 
+1.10.2022, 22:57:19 - DEBUG - auth.service - login with username: a 
+1.10.2022, 22:57:21 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 22:57:21 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: nKuH7gg_LC48qo_fAAAB] 
+1.10.2022, 22:57:21 - DEBUG - auth.service - login with username: a 
+1.10.2022, 22:57:21 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+1.10.2022, 22:57:21 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: nKuH7gg_LC48qo_fAAAB] 
+1.10.2022, 22:58:31 - INFO - User loggedout successfully 
+1.10.2022, 22:58:31 - INFO - Removing socket.userId for socket [id: nKuH7gg_LC48qo_fAAAB] 
+1.10.2022, 23:08:23 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 23:21:30 - INFO - New connected socket [id: l0yvR7aptWDP4NVQAAAD] 
+1.10.2022, 23:42:09 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 23:42:10 - INFO - New connected socket [id: 7k8nCFOV1O0kjmbYAAAF] 
+1.10.2022, 23:42:11 - DEBUG - Getting categories 
+1.10.2022, 23:53:55 - INFO - Socket disconnected [id: undefined] 
+1.10.2022, 23:53:56 - INFO - New connected socket [id: 3pFEpaoqcMsSm0zKAAAH] 
+1.10.2022, 23:53:56 - DEBUG - Getting categories 
+2.10.2022, 0:05:14 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 0:05:16 - INFO - New connected socket [id: M0dFHwYIuY0kAaDzAAAJ] 
+2.10.2022, 0:05:16 - DEBUG - Getting categories 
+2.10.2022, 0:11:46 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 0:11:47 - INFO - New connected socket [id: _Q0B3G4OteaHy53sAAAL] 
+2.10.2022, 0:11:47 - DEBUG - Getting categories 
+>>>>>>> 6db501b2972e3b8aee32e1acf820c3828ba11271
+2.10.2022, 1:04:31 - INFO - Server is running on port: 3030 
+2.10.2022, 1:04:31 - INFO - New connected socket [id: kpVSrx4CFqmhyVAMAAAB] 
