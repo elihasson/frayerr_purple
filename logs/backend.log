@@ -3711,3 +3711,37 @@
 2.10.2022, 1:20:10 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: F1tGg1uiIpvUZgeKAAAH] 
 2.10.2022, 1:20:11 - DEBUG - Getting Orders 
 >>>>>>> db6cf6a758cc406f6e21d7ea8b603850240e9fc2
+2.10.2022, 3:01:03 - INFO - Server is running on port: 3030 
+2.10.2022, 3:01:07 - INFO - New connected socket [id: absUwWQxWb6lg-MgAAAB] 
+2.10.2022, 3:23:23 - DEBUG - Getting categories 
+2.10.2022, 3:24:04 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 3:24:05 - INFO - New connected socket [id: -jfXP6G9IFVnrqA3AAAD] 
+2.10.2022, 3:24:05 - DEBUG - Getting categories 
+2.10.2022, 3:30:30 - DEBUG - Getting categories 
+2.10.2022, 3:30:35 - DEBUG - Getting categories 
+2.10.2022, 3:30:40 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 3:30:40 - INFO - New connected socket [id: 8hEhQxwEjzf21lYyAAAF] 
+2.10.2022, 3:30:41 - DEBUG - Getting categories 
+2.10.2022, 3:31:08 - DEBUG - Getting categories 
+2.10.2022, 3:31:12 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 3:31:13 - INFO - New connected socket [id: dV_6yiOSCLyrA1krAAAH] 
+2.10.2022, 3:31:13 - DEBUG - Getting categories 
+2.10.2022, 3:34:40 - DEBUG - Getting categories 
+2.10.2022, 3:36:29 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 3:36:30 - INFO - New connected socket [id: aylZsOHFzuRZN4N-AAAJ] 
+2.10.2022, 3:37:03 - DEBUG - Getting categories 
+2.10.2022, 3:37:07 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 3:37:08 - INFO - New connected socket [id: ExpSH-V51hU3cvd4AAAL] 
+2.10.2022, 3:37:09 - DEBUG - Getting categories 
+2.10.2022, 3:39:03 - DEBUG - Getting categories 
+2.10.2022, 3:49:20 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 3:49:21 - INFO - New connected socket [id: BZjS1DuB2fRXWO0OAAAN] 
+2.10.2022, 3:49:21 - DEBUG - Getting categories 
+2.10.2022, 3:52:37 - DEBUG - Getting categories 
+2.10.2022, 3:53:08 - DEBUG - Getting categories 
+2.10.2022, 3:53:35 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 3:53:36 - INFO - New connected socket [id: 66x08jqfUcSs5fRgAAAP] 
+2.10.2022, 3:53:37 - DEBUG - Getting categories 
+2.10.2022, 4:04:14 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 4:04:15 - INFO - New connected socket [id: urZL3R_ONEVhpa23AAAR] 
+2.10.2022, 4:04:15 - DEBUG - Getting categories 
