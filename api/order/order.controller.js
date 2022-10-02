@@ -39,6 +39,7 @@ async function addOrder(req, res) {
       data:  'incoming-order',
       userId: gig.owner._id
     })
+    console.log('gig:', gig);
     res.json(addedOrder)
   } catch (err) {
     logger.error('Failed to add order', err)
@@ -52,7 +53,7 @@ async function updateOrder(req, res) {
     const order = req.body;
     const updatedOrder = await orderService.update(order)
     emitToUser({
-      type: 'update-user',
+      type: 'order-updated',
       data:  'update-order',
       userId: updatedOrder.buyer._id
     })
@@ -71,7 +72,7 @@ async function removeOrder(req, res) {
     const removedOrder = await orderService.getById(orderId)
     const removedId = await orderService.remove(orderId)
     emitToUser({
-      type: 'update-user',
+      type: 'order-updated',
       data:  'update-order',
       userId: removedOrder.buyer._id
     })
