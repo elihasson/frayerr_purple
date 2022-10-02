@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.11d7b973.css",
-    "main.js": "/static/js/main.6e442a34.js",
+    "main.css": "/static/css/main.4fc85828.css",
+    "main.js": "/static/js/main.e251c4f8.js",
     "static/media/Lobster-Regular.ttf": "/static/media/Lobster-Regular.9535d77ef867bef91bc5.ttf",
     "static/media/WorkSans-Regular.ttf": "/static/media/WorkSans-Regular.bb6e3e8193f32a7fc502.ttf",
     "static/media/WorkSans-Medium.ttf": "/static/media/WorkSans-Medium.d7a9738056a6ecbd02c2.ttf",
     "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.1711b41f3ae4cb322eea.ttf",
     "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
-    "static/media/bg-hero-1.jpg": "/static/media/bg-hero-1.cd69623bd92272ba1ee5.jpg",
+    "static/media/bg-hero-1-v1.jpg": "/static/media/bg-hero-1-v1.cd69623bd92272ba1ee5.jpg",
     "static/media/domaine-display-bold.ttf": "/static/media/domaine-display-bold.faff2fae7d8b5308eeac.ttf",
-    "static/media/bg-hero-5.jpg": "/static/media/bg-hero-5.0dc0414b70cd2653fdab.jpg",
-    "static/media/bg-hero-4.jpg": "/static/media/bg-hero-4.23b2214df00a9a4af7a8.jpg",
-    "static/media/bg-hero-3.jpg": "/static/media/bg-hero-3.44e575630bab6a2fdc23.jpg",
-    "static/media/bg-hero-2.jpg": "/static/media/bg-hero-2.e80ce21f818c1a6b9d58.jpg",
+    "static/media/bg-hero-5-v1.jpg": "/static/media/bg-hero-5-v1.0dc0414b70cd2653fdab.jpg",
+    "static/media/bg-hero-4-v1.jpg": "/static/media/bg-hero-4-v1.23b2214df00a9a4af7a8.jpg",
+    "static/media/bg-hero-3-v1.jpg": "/static/media/bg-hero-3-v1.44e575630bab6a2fdc23.jpg",
+    "static/media/bg-hero-2-v1.jpg": "/static/media/bg-hero-2-v1.e80ce21f818c1a6b9d58.jpg",
     "static/media/moon_get-Heavy.ttf": "/static/media/moon_get-Heavy.c9fed3203095d9c65757.ttf",
     "static/media/macan-bold.502483a.woff2": "/static/media/macan-bold.502483a.cf2da9c408beeab3fccb.woff2",
     "static/media/macan-semibold.d147812.woff2": "/static/media/macan-semibold.d147812.3246ea44820fc8b1adfe.woff2",
     "static/media/macan-light.9b72a31.woff2": "/static/media/macan-light.9b72a31.9aab970dd8c2b3e6a5af.woff2",
     "static/media/macan-regular.3d263b5.woff2": "/static/media/macan-regular.3d263b5.60c84fbe6363b59af251.woff2",
+    "static/media/bg-hero-4-v2.jpg": "/static/media/bg-hero-4-v2.7c4207342aa90caa6244.jpg",
+    "static/media/bg-hero-1-v2.jpg": "/static/media/bg-hero-1-v2.ae9bf7e84b7ceda26c26.jpg",
+    "static/media/bg-hero-2-v2.jpg": "/static/media/bg-hero-2-v2.bf5687fd90d37328777a.jpg",
+    "static/media/bg-hero-3-v2.jpg": "/static/media/bg-hero-3-v2.9771f2c7fe003bb8b2bc.jpg",
+    "static/media/bg-hero-5-v2.jpg": "/static/media/bg-hero-5-v2.7e5ed038aa0290ca9b1d.jpg",
     "static/media/bg-signup.webp": "/static/media/bg-signup.46026738eee123000650.webp",
     "static/media/domain-display-italic.otf": "/static/media/domain-display-italic.7bf133e5f15ed9df3711.otf",
     "static/media/domain-display-regular.otf": "/static/media/domain-display-regular.a1e9fd84437fa2c4ed96.otf",
@@ -29,11 +34,11 @@
     "static/media/voice_over.svg": "/static/media/voice_over.d1651567772d4a07961f2ffb3bbaeb79.svg",
     "static/media/video_explainer.svg": "/static/media/video_explainer.9dedae62bea55caa93500dc23761083d.svg",
     "index.html": "/index.html",
-    "main.11d7b973.css.map": "/static/css/main.11d7b973.css.map",
-    "main.6e442a34.js.map": "/static/js/main.6e442a34.js.map"
+    "main.4fc85828.css.map": "/static/css/main.4fc85828.css.map",
+    "main.e251c4f8.js.map": "/static/js/main.e251c4f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.11d7b973.css",
-    "static/js/main.6e442a34.js"
+    "static/css/main.4fc85828.css",
+    "static/js/main.e251c4f8.js"
   ]
 }

@@ -4170,3 +4170,19 @@
 =======
 >>>>>>> db6cf6a758cc406f6e21d7ea8b603850240e9fc2
 >>>>>>> 51b980c131ccbb7bec532a892901faf6c6c9c69d
+2.10.2022, 11:28:27 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 11:28:37 - DEBUG - Getting categories 
+2.10.2022, 11:28:37 - INFO - New connected socket [id: d6OISAiZP824p9MeAAAd] 
+2.10.2022, 11:28:37 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: d6OISAiZP824p9MeAAAd] 
+2.10.2022, 11:31:45 - DEBUG - Getting Gigs 
+2.10.2022, 11:31:59 - DEBUG - Getting Gigs 
+2.10.2022, 11:32:07 - INFO - user-watch from socket [id: d6OISAiZP824p9MeAAAd], on user 633548767a4ae74614f849cb 
+2.10.2022, 11:32:42 - INFO - user-watch from socket [id: d6OISAiZP824p9MeAAAd], on user 633548767a4ae74614f849cb 
+2.10.2022, 12:26:41 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 12:26:42 - INFO - New connected socket [id: vewH7qRpwKMsBB_YAAAf] 
+2.10.2022, 12:26:43 - DEBUG - Getting categories 
+2.10.2022, 12:26:43 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: vewH7qRpwKMsBB_YAAAf] 
+2.10.2022, 12:26:44 - INFO - user-watch from socket [id: vewH7qRpwKMsBB_YAAAf], on user 633548767a4ae74614f849cb 
+2.10.2022, 12:46:48 - INFO - Server is running on port: 3030 
+2.10.2022, 12:46:48 - INFO - New connected socket [id: tL2m6otzB1vlYR-5AAAC] 
+2.10.2022, 12:46:48 - INFO - New connected socket [id: zQInwCevfsNsoTlgAAAD] 
