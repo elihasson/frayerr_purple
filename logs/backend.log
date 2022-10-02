@@ -4170,3 +4170,8 @@
 =======
 >>>>>>> db6cf6a758cc406f6e21d7ea8b603850240e9fc2
 >>>>>>> 51b980c131ccbb7bec532a892901faf6c6c9c69d
+2.10.2022, 12:35:22 - INFO - Server is running on port: 3030 
+2.10.2022, 12:35:44 - INFO - New connected socket [id: IsPoBtO733kMszjhAAAB] 
+2.10.2022, 12:35:44 - DEBUG - Getting categories 
+2.10.2022, 13:47:21 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 13:54:44 - INFO - New connected socket [id: F09sZcSufoHCgsZ9AAAD] 
