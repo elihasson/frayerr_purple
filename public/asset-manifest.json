@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fc85828.css",
+    "main.css": "/static/css/main.1d0917f2.css",
     "main.js": "/static/js/main.e251c4f8.js",
     "static/media/Lobster-Regular.ttf": "/static/media/Lobster-Regular.9535d77ef867bef91bc5.ttf",
     "static/media/WorkSans-Regular.ttf": "/static/media/WorkSans-Regular.bb6e3e8193f32a7fc502.ttf",
@@ -34,11 +34,11 @@
     "static/media/voice_over.svg": "/static/media/voice_over.d1651567772d4a07961f2ffb3bbaeb79.svg",
     "static/media/video_explainer.svg": "/static/media/video_explainer.9dedae62bea55caa93500dc23761083d.svg",
     "index.html": "/index.html",
-    "main.4fc85828.css.map": "/static/css/main.4fc85828.css.map",
+    "main.1d0917f2.css.map": "/static/css/main.1d0917f2.css.map",
     "main.e251c4f8.js.map": "/static/js/main.e251c4f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fc85828.css",
+    "static/css/main.1d0917f2.css",
     "static/js/main.e251c4f8.js"
   ]
 }

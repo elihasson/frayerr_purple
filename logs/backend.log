@@ -4189,3 +4189,63 @@
 2.10.2022, 12:47:59 - INFO - Socket disconnected [id: undefined] 
 2.10.2022, 12:48:16 - INFO - Server is running on port: 3030 
 2.10.2022, 12:48:16 - INFO - New connected socket [id: zaOeSYAJ2IiHe7o5AAAB] 
+2.10.2022, 12:52:19 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 12:52:20 - INFO - New connected socket [id: 6tpZ6jsyTYuAOFAYAAAD] 
+2.10.2022, 12:52:21 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: 6tpZ6jsyTYuAOFAYAAAD] 
+2.10.2022, 12:52:21 - DEBUG - Getting categories 
+2.10.2022, 12:52:23 - INFO - user-watch from socket [id: 6tpZ6jsyTYuAOFAYAAAD], on user 633548767a4ae74614f849cb 
+2.10.2022, 12:53:28 - INFO - User loggedout successfully 
+2.10.2022, 12:53:28 - INFO - Removing socket.userId for socket [id: 6tpZ6jsyTYuAOFAYAAAD] 
+2.10.2022, 12:53:35 - DEBUG - auth.service - login with username: b 
+2.10.2022, 12:53:35 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100} 
+2.10.2022, 12:53:35 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: 6tpZ6jsyTYuAOFAYAAAD] 
+2.10.2022, 12:53:35 - DEBUG - auth.service - login with username: b 
+2.10.2022, 12:53:35 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100} 
+2.10.2022, 12:53:35 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: 6tpZ6jsyTYuAOFAYAAAD] 
+2.10.2022, 12:56:18 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 12:56:19 - INFO - New connected socket [id: rcsLU7I_w3D5WKi1AAAF] 
+2.10.2022, 12:56:19 - DEBUG - Getting categories 
+2.10.2022, 12:56:19 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: rcsLU7I_w3D5WKi1AAAF] 
+2.10.2022, 12:56:36 - DEBUG - Getting Orders 
+2.10.2022, 12:56:43 - INFO - No active socket for user: 63330f9288db0b425447f2f1 
+2.10.2022, 12:57:05 - INFO - No active socket for user: 63330f9288db0b425447f2f1 
+2.10.2022, 12:57:36 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 12:57:37 - INFO - New connected socket [id: O8L285HhgvE_YWr3AAAH] 
+2.10.2022, 12:57:37 - DEBUG - Getting categories 
+2.10.2022, 12:57:38 - DEBUG - Getting Orders 
+2.10.2022, 12:57:38 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: O8L285HhgvE_YWr3AAAH] 
+2.10.2022, 12:57:53 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 13:57:03 - INFO - New connected socket [id: gI0A9-pEoUHMSb98AAAJ] 
+2.10.2022, 13:57:05 - DEBUG - Getting categories 
+2.10.2022, 13:57:13 - DEBUG - auth.service - login with username: a 
+2.10.2022, 13:57:13 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+2.10.2022, 13:57:13 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: gI0A9-pEoUHMSb98AAAJ] 
+2.10.2022, 13:57:13 - DEBUG - auth.service - login with username: a 
+2.10.2022, 13:57:13 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+2.10.2022, 13:57:13 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: gI0A9-pEoUHMSb98AAAJ] 
+2.10.2022, 13:57:21 - DEBUG - Getting Gigs 
+2.10.2022, 13:57:26 - DEBUG - Getting Gigs 
+2.10.2022, 13:57:32 - INFO - user-watch from socket [id: gI0A9-pEoUHMSb98AAAJ], on user 633548767a4ae74614f849cb 
+2.10.2022, 14:26:40 - INFO - user-watch from socket [id: gI0A9-pEoUHMSb98AAAJ], on user 633548767a4ae74614f849cb 
+2.10.2022, 14:28:11 - INFO - New connected socket [id: YUuk7lo188Rp4uFBAAAL] 
+2.10.2022, 14:28:12 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: YUuk7lo188Rp4uFBAAAL] 
+2.10.2022, 14:28:12 - DEBUG - Getting categories 
+2.10.2022, 14:28:28 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+2.10.2022, 14:28:28 - DEBUG - Getting Orders 
+2.10.2022, 14:28:28 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: YUuk7lo188Rp4uFBAAAL] 
+2.10.2022, 14:31:38 - INFO - user-watch from socket [id: gI0A9-pEoUHMSb98AAAJ], on user 633548767a4ae74614f849cb 
+2.10.2022, 14:33:30 - INFO - Socket disconnected [id: undefined] 
+2.10.2022, 14:33:31 - INFO - New connected socket [id: I1VGrASZ_JVc26hLAAAN] 
+2.10.2022, 14:33:31 - DEBUG - Getting categories 
+2.10.2022, 14:33:32 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: I1VGrASZ_JVc26hLAAAN] 
+2.10.2022, 14:33:35 - INFO - user-watch from socket [id: I1VGrASZ_JVc26hLAAAN], on user 633548767a4ae74614f849cb 
+2.10.2022, 14:34:18 - DEBUG - Getting Orders 
+2.10.2022, 14:34:20 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: I1VGrASZ_JVc26hLAAAN] 
+2.10.2022, 14:34:24 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+2.10.2022, 14:34:24 - DEBUG - Getting Orders 
+2.10.2022, 14:34:24 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: YUuk7lo188Rp4uFBAAAL] 
+2.10.2022, 14:34:27 - DEBUG - Getting Orders 
+2.10.2022, 14:34:29 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: I1VGrASZ_JVc26hLAAAN] 
+2.10.2022, 14:34:29 - DEBUG - Getting Orders 
+2.10.2022, 14:34:31 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: I1VGrASZ_JVc26hLAAAN] 
+2.10.2022, 14:34:31 - DEBUG - Getting Orders 
