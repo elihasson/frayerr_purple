@@ -77,3 +77,59 @@
 3.10.2022, 9:51:00 - INFO - New connected socket [id: vliV8cd51eEKmY3-AAAF] 
 3.10.2022, 9:56:49 - INFO - Server is running on port: 3030 
 3.10.2022, 9:56:52 - INFO - New connected socket [id: SnUN1hFIUADVqDdWAAAB] 
+3.10.2022, 9:58:47 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 10:06:45 - INFO - New connected socket [id: 4aVhj3_JYvB8u_sXAAAD] 
+3.10.2022, 10:06:46 - DEBUG - Getting categories 
+3.10.2022, 10:06:46 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: 4aVhj3_JYvB8u_sXAAAD] 
+3.10.2022, 10:07:01 - INFO - New connected socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:07:02 - DEBUG - Getting categories 
+3.10.2022, 10:12:53 - DEBUG - auth.service - login with username: a 
+3.10.2022, 10:12:54 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 10:12:54 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:12:54 - DEBUG - auth.service - login with username: a 
+3.10.2022, 10:12:54 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 10:12:54 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:13:16 - INFO - User loggedout successfully 
+3.10.2022, 10:13:16 - INFO - Removing socket.userId for socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:15:10 - DEBUG - auth.service - login with username: a 
+3.10.2022, 10:15:10 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 10:15:10 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:15:10 - DEBUG - auth.service - login with username: a 
+3.10.2022, 10:15:10 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 10:15:10 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:19:37 - DEBUG - Getting Gigs 
+3.10.2022, 10:21:05 - DEBUG - Getting Orders 
+3.10.2022, 10:22:39 - DEBUG - Getting Gigs 
+3.10.2022, 10:25:11 - INFO - user-watch from socket [id: Zlp5rNKuGHO0aEHHAAAF], on user 63330f9288db0b425447f2f1 
+3.10.2022, 10:25:15 - DEBUG - Getting Gigs 
+3.10.2022, 10:27:18 - INFO - User loggedout successfully 
+3.10.2022, 10:27:18 - INFO - Removing socket.userId for socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:27:44 - DEBUG - Getting Gigs 
+3.10.2022, 10:29:27 - DEBUG - Getting Gigs 
+3.10.2022, 10:29:36 - DEBUG - Getting Gigs 
+3.10.2022, 10:32:11 - DEBUG - auth.service - login with username: a 
+3.10.2022, 10:32:11 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 10:32:11 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:32:11 - DEBUG - auth.service - login with username: a 
+3.10.2022, 10:32:11 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 10:32:11 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Zlp5rNKuGHO0aEHHAAAF] 
+3.10.2022, 10:33:44 - DEBUG - Getting Gigs 
+3.10.2022, 10:34:32 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 10:34:32 - INFO - New connected socket [id: BcC8ynJtceOpUrrOAAAH] 
+3.10.2022, 10:34:33 - DEBUG - Getting categories 
+3.10.2022, 10:34:33 - DEBUG - Getting Gigs 
+3.10.2022, 10:34:33 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: BcC8ynJtceOpUrrOAAAH] 
+3.10.2022, 10:36:15 - DEBUG - Getting Gigs 
+3.10.2022, 10:36:19 - INFO - User loggedout successfully 
+3.10.2022, 10:36:19 - INFO - Removing socket.userId for socket [id: BcC8ynJtceOpUrrOAAAH] 
+3.10.2022, 10:36:30 - DEBUG - Getting Gigs 
+3.10.2022, 10:38:20 - DEBUG - auth.service - login with username: a 
+3.10.2022, 10:38:20 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 10:38:20 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: BcC8ynJtceOpUrrOAAAH] 
+3.10.2022, 10:38:20 - DEBUG - auth.service - login with username: a 
+3.10.2022, 10:38:21 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 10:38:21 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: BcC8ynJtceOpUrrOAAAH] 
+3.10.2022, 10:38:30 - DEBUG - Getting Gigs 
+3.10.2022, 10:41:13 - INFO - Server is running on port: 3030 
+3.10.2022, 10:41:13 - INFO - New connected socket [id: mPUOGXZcfzHhE8dwAAAB] 
+3.10.2022, 10:41:16 - INFO - New connected socket [id: -4zWZUirQZSTkld3AAAD] 
