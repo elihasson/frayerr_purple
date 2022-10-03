@@ -133,3 +133,24 @@
 3.10.2022, 10:41:13 - INFO - Server is running on port: 3030 
 3.10.2022, 10:41:13 - INFO - New connected socket [id: mPUOGXZcfzHhE8dwAAAB] 
 3.10.2022, 10:41:16 - INFO - New connected socket [id: -4zWZUirQZSTkld3AAAD] 
+3.10.2022, 10:45:57 - DEBUG - Getting Gigs 
+3.10.2022, 10:46:02 - DEBUG - Getting Gigs 
+3.10.2022, 10:46:22 - DEBUG - Getting Gigs 
+3.10.2022, 10:46:25 - INFO - user-watch from socket [id: -4zWZUirQZSTkld3AAAD], on user 633548767a4ae74614f849cb 
+3.10.2022, 10:46:33 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+3.10.2022, 10:46:35 - DEBUG - Getting Orders 
+3.10.2022, 10:46:36 - INFO - No active socket for user: 633548767a4ae74614f849cb 
+3.10.2022, 10:46:52 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 10:46:55 - INFO - New connected socket [id: gw90xWa4LIDVDeRhAAAF] 
+3.10.2022, 10:46:56 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: gw90xWa4LIDVDeRhAAAF] 
+3.10.2022, 10:46:56 - DEBUG - Getting categories 
+3.10.2022, 10:46:57 - DEBUG - Getting Orders 
+3.10.2022, 10:46:59 - INFO - No active socket for user: 63330f9288db0b425447f2f1 
+3.10.2022, 10:47:09 - DEBUG - Getting Gigs 
+3.10.2022, 10:47:14 - INFO - user-watch from socket [id: -4zWZUirQZSTkld3AAAD], on user 633548767a4ae74614f849cb 
+3.10.2022, 10:47:16 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+3.10.2022, 10:47:16 - DEBUG - Getting Orders 
+3.10.2022, 10:47:16 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: gw90xWa4LIDVDeRhAAAF] 
+3.10.2022, 10:49:25 - INFO - Server is running on port: 3030 
+3.10.2022, 10:49:25 - INFO - New connected socket [id: zBJ3_ePOysv7wwd1AAAC] 
+3.10.2022, 10:49:25 - INFO - New connected socket [id: cvLA98u0ys93FdRiAAAD] 
