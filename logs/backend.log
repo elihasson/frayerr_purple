@@ -154,3 +154,182 @@
 3.10.2022, 10:49:25 - INFO - Server is running on port: 3030 
 3.10.2022, 10:49:25 - INFO - New connected socket [id: zBJ3_ePOysv7wwd1AAAC] 
 3.10.2022, 10:49:25 - INFO - New connected socket [id: cvLA98u0ys93FdRiAAAD] 
+3.10.2022, 10:57:46 - DEBUG - Getting Gigs 
+3.10.2022, 10:58:11 - INFO - user-watch from socket [id: cvLA98u0ys93FdRiAAAD], on user 633548767a4ae74614f849cb 
+3.10.2022, 10:58:20 - DEBUG - Getting Gigs 
+3.10.2022, 10:58:27 - ERROR - while finding user by id: 61ed1193539e75815ff21107 | TypeError: Cannot convert undefined or null to object 
+3.10.2022, 10:58:27 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object 
+3.10.2022, 10:58:45 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 11:01:11 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 11:39:51 - INFO - New connected socket [id: g8QiClmh4b6cN4b5AAAF] 
+3.10.2022, 11:39:52 - DEBUG - Getting categories 
+3.10.2022, 11:39:52 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: g8QiClmh4b6cN4b5AAAF] 
+3.10.2022, 11:39:55 - DEBUG - Getting Gigs 
+3.10.2022, 11:39:59 - DEBUG - Getting Gigs 
+3.10.2022, 11:39:59 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:01 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:02 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:02 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:03 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:03 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:04 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:05 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:05 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:06 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:06 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:07 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:08 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:09 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:09 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:10 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:10 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:11 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:11 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:12 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:13 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:13 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:14 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:15 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:15 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:16 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:17 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:17 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:18 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:18 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:21 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:21 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:21 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:21 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:21 - DEBUG - Getting Gigs 
+3.10.2022, 11:40:24 - DEBUG - Getting categories 
+3.10.2022, 11:40:25 - DEBUG - Getting Gigs 
+3.10.2022, 11:41:14 - DEBUG - Getting Gigs 
+3.10.2022, 11:41:17 - DEBUG - Getting Gigs 
+3.10.2022, 11:41:30 - DEBUG - Getting Gigs 
+3.10.2022, 11:41:32 - DEBUG - Getting Gigs 
+3.10.2022, 11:41:34 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:04 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:04 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:14 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:14 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:14 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:17 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:26 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:56 - DEBUG - Getting Gigs 
+3.10.2022, 11:42:59 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:16 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:24 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:30 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:35 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:40 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:40 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:42 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:43 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:44 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:54 - DEBUG - Getting Gigs 
+3.10.2022, 11:43:59 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:03 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:03 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:07 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:07 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:07 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:15 - INFO - user-watch from socket [id: g8QiClmh4b6cN4b5AAAF], on user 633548767a4ae74614f849cb 
+3.10.2022, 11:44:29 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:32 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:41 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:41 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:44 - DEBUG - Getting Gigs 
+3.10.2022, 11:44:55 - INFO - user-watch from socket [id: g8QiClmh4b6cN4b5AAAF], on user 633548767a4ae74614f849cb 
+3.10.2022, 11:45:19 - INFO - New order sent from user:Tobin Abbott to user Tobin Abbott 
+3.10.2022, 11:45:21 - DEBUG - Getting Orders 
+3.10.2022, 11:45:21 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: g8QiClmh4b6cN4b5AAAF] 
+3.10.2022, 11:45:38 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 11:45:39 - INFO - New connected socket [id: L8uOgcD9ojcipvZmAAAH] 
+3.10.2022, 11:45:39 - DEBUG - Getting Orders 
+3.10.2022, 11:45:40 - DEBUG - Getting categories 
+3.10.2022, 11:45:40 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: L8uOgcD9ojcipvZmAAAH] 
+3.10.2022, 11:45:43 - INFO - User loggedout successfully 
+3.10.2022, 11:45:43 - INFO - Removing socket.userId for socket [id: L8uOgcD9ojcipvZmAAAH] 
+3.10.2022, 11:45:47 - DEBUG - auth.service - login with username: a 
+3.10.2022, 11:45:47 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 11:45:47 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: L8uOgcD9ojcipvZmAAAH] 
+3.10.2022, 11:45:47 - DEBUG - auth.service - login with username: a 
+3.10.2022, 11:45:47 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 11:45:47 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: L8uOgcD9ojcipvZmAAAH] 
+3.10.2022, 11:45:54 - DEBUG - Getting Gigs 
+3.10.2022, 11:45:56 - DEBUG - Getting Gigs 
+3.10.2022, 11:45:59 - DEBUG - Getting Gigs 
+3.10.2022, 11:45:59 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:01 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:01 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:02 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:07 - INFO - user-watch from socket [id: L8uOgcD9ojcipvZmAAAH], on user 633548767a4ae74614f849cb 
+3.10.2022, 11:46:09 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+3.10.2022, 11:46:09 - DEBUG - Getting Orders 
+3.10.2022, 11:46:09 - INFO - No active socket for user: 633548767a4ae74614f849cb 
+3.10.2022, 11:46:24 - INFO - New connected socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:46:24 - DEBUG - Getting categories 
+3.10.2022, 11:46:25 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:46:30 - INFO - User loggedout successfully 
+3.10.2022, 11:46:30 - INFO - Removing socket.userId for socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:46:35 - DEBUG - auth.service - login with username: a 
+3.10.2022, 11:46:35 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 11:46:35 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:46:35 - DEBUG - auth.service - login with username: a 
+3.10.2022, 11:46:35 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 11:46:35 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:46:39 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: L8uOgcD9ojcipvZmAAAH] 
+3.10.2022, 11:46:39 - DEBUG - Getting Orders 
+3.10.2022, 11:46:42 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:43 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:47 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:47 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:48 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:48 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:48 - DEBUG - Getting Gigs 
+3.10.2022, 11:46:51 - INFO - user-watch from socket [id: L8uOgcD9ojcipvZmAAAH], on user 633548767a4ae74614f849cb 
+3.10.2022, 11:46:53 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+3.10.2022, 11:46:53 - DEBUG - Getting Orders 
+3.10.2022, 11:46:53 - INFO - No active socket for user: 633548767a4ae74614f849cb 
+3.10.2022, 11:47:01 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: L8uOgcD9ojcipvZmAAAH] 
+3.10.2022, 11:47:01 - DEBUG - Getting Orders 
+3.10.2022, 11:47:04 - INFO - User loggedout successfully 
+3.10.2022, 11:47:04 - INFO - Removing socket.userId for socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:47:10 - DEBUG - auth.service - login with username: b 
+3.10.2022, 11:47:10 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100} 
+3.10.2022, 11:47:10 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:47:10 - DEBUG - auth.service - login with username: b 
+3.10.2022, 11:47:11 - INFO - User login:  | {"_id":"633548767a4ae74614f849cb","username":"b","fullname":"Tobin Abbott","imgUrl":"https://res.cloudinary.com/drdfrwt1d/image/upload/v1642849189/User%20photos/Male/profile_img_7_wrinwo.jpg","smallDesc":"i will draw any world you imagine","rate":4.9,"level":"premium","score":100} 
+3.10.2022, 11:47:11 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:47:15 - DEBUG - Getting Gigs 
+3.10.2022, 11:47:17 - DEBUG - Getting Gigs 
+3.10.2022, 11:47:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:47:19 - DEBUG - Getting Gigs 
+3.10.2022, 11:47:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:47:20 - DEBUG - Getting Gigs 
+3.10.2022, 11:47:21 - DEBUG - Getting Gigs 
+3.10.2022, 11:47:23 - INFO - user-watch from socket [id: L8uOgcD9ojcipvZmAAAH], on user 633548767a4ae74614f849cb 
+3.10.2022, 11:47:24 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+3.10.2022, 11:47:25 - DEBUG - Getting Orders 
+3.10.2022, 11:47:25 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: pvgJphCaLFMKwG9TAAAJ] 
+3.10.2022, 11:53:52 - INFO - Server is running on port: 3030 
+3.10.2022, 11:53:53 - INFO - New connected socket [id: xZ98K6LSFH4h8ldJAAAC] 
+3.10.2022, 11:53:53 - INFO - New connected socket [id: gplVyLNgb9Odc69gAAAD] 
