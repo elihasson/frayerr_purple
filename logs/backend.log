@@ -1,0 +1,79 @@
+3.10.2022, 9:28:24 - INFO - New connected socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:28:25 - DEBUG - Getting categories 
+3.10.2022, 9:28:36 - DEBUG - auth.service - login with username: a 
+3.10.2022, 9:28:36 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 9:28:36 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:28:36 - DEBUG - auth.service - login with username: a 
+3.10.2022, 9:28:36 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+3.10.2022, 9:28:36 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:29:44 - DEBUG - Getting Gigs 
+3.10.2022, 9:29:46 - DEBUG - Getting Gigs 
+3.10.2022, 9:29:48 - DEBUG - Getting Gigs 
+3.10.2022, 9:29:57 - DEBUG - Getting Gigs 
+3.10.2022, 9:30:01 - INFO - user-watch from socket [id: KEAqbbH7Na1UzY2GAAAj], on user 633548767a4ae74614f849cb 
+3.10.2022, 9:30:24 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+3.10.2022, 9:30:25 - DEBUG - Getting Orders 
+3.10.2022, 9:30:25 - INFO - No active socket for user: 633548767a4ae74614f849cb 
+3.10.2022, 9:30:37 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 9:30:39 - INFO - New connected socket [id: DPqNOLOflerZHt-7AAAl] 
+3.10.2022, 9:30:39 - INFO - Setting socket.userId = 633548767a4ae74614f849cb for socket [id: DPqNOLOflerZHt-7AAAl] 
+3.10.2022, 9:30:40 - DEBUG - Getting categories 
+3.10.2022, 9:30:44 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:30:44 - DEBUG - Getting Orders 
+3.10.2022, 9:30:46 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:30:46 - DEBUG - Getting Orders 
+3.10.2022, 9:30:51 - DEBUG - Getting Gigs 
+3.10.2022, 9:30:52 - DEBUG - Getting Gigs 
+3.10.2022, 9:30:55 - INFO - user-watch from socket [id: KEAqbbH7Na1UzY2GAAAj], on user 633548767a4ae74614f849cb 
+3.10.2022, 9:30:58 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+3.10.2022, 9:30:58 - DEBUG - Getting Orders 
+3.10.2022, 9:30:58 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: DPqNOLOflerZHt-7AAAl] 
+3.10.2022, 9:31:04 - DEBUG - Getting Orders 
+3.10.2022, 9:31:07 - INFO - user-watch from socket [id: DPqNOLOflerZHt-7AAAl], on user 633548767a4ae74614f849cb 
+3.10.2022, 9:31:17 - DEBUG - Getting Orders 
+3.10.2022, 9:31:20 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:31:20 - DEBUG - Getting Orders 
+3.10.2022, 9:31:22 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:31:22 - DEBUG - Getting Orders 
+3.10.2022, 9:31:46 - DEBUG - Getting Gigs 
+3.10.2022, 9:31:47 - DEBUG - Getting Gigs 
+3.10.2022, 9:31:50 - INFO - user-watch from socket [id: KEAqbbH7Na1UzY2GAAAj], on user 633548767a4ae74614f849cb 
+3.10.2022, 9:31:53 - INFO - New order sent from user:Aharon M to user Tobin Abbott 
+3.10.2022, 9:31:53 - DEBUG - Getting Orders 
+3.10.2022, 9:31:53 - INFO - Emiting event: update-user to user: 633548767a4ae74614f849cb socket [id: DPqNOLOflerZHt-7AAAl] 
+3.10.2022, 9:31:58 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:31:58 - DEBUG - Getting Orders 
+3.10.2022, 9:31:59 - INFO - Emiting event: order-updated to user: 63330f9288db0b425447f2f1 socket [id: KEAqbbH7Na1UzY2GAAAj] 
+3.10.2022, 9:31:59 - DEBUG - Getting Orders 
+3.10.2022, 9:32:02 - DEBUG - Getting Orders 
+3.10.2022, 9:34:48 - DEBUG - Getting categories 
+3.10.2022, 9:34:48 - DEBUG - Getting categories 
+3.10.2022, 9:37:59 - DEBUG - Getting Gigs 
+3.10.2022, 9:38:01 - INFO - user-watch from socket [id: KEAqbbH7Na1UzY2GAAAj], on user 633548767a4ae74614f849cb 
+3.10.2022, 9:38:06 - DEBUG - Getting Gigs 
+3.10.2022, 9:38:08 - ERROR - while finding user by id: 61ed1193539e75815ff21107 | TypeError: Cannot convert undefined or null to object 
+3.10.2022, 9:38:08 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object 
+3.10.2022, 9:38:10 - DEBUG - Getting Gigs 
+3.10.2022, 9:38:13 - ERROR - while finding user by id: 61ed1193539e75815ff21107 | TypeError: Cannot convert undefined or null to object 
+3.10.2022, 9:38:13 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object 
+3.10.2022, 9:38:20 - DEBUG - Getting Gigs 
+3.10.2022, 9:38:23 - ERROR - while finding user by id: 61ed1296539e75815ff2110d | TypeError: Cannot convert undefined or null to object 
+3.10.2022, 9:38:23 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object 
+3.10.2022, 9:38:30 - DEBUG - Getting Gigs 
+3.10.2022, 9:38:32 - INFO - user-watch from socket [id: KEAqbbH7Na1UzY2GAAAj], on user 633548767a4ae74614f849cb 
+3.10.2022, 9:39:05 - DEBUG - Getting Gigs 
+3.10.2022, 9:39:07 - INFO - user-watch from socket [id: KEAqbbH7Na1UzY2GAAAj], on user 633548767a4ae74614f849cb 
+3.10.2022, 9:39:10 - DEBUG - Getting Gigs 
+3.10.2022, 9:39:11 - INFO - user-watch from socket [id: KEAqbbH7Na1UzY2GAAAj], on user 633548767a4ae74614f849cb 
+3.10.2022, 9:39:44 - DEBUG - Getting Gigs 
+3.10.2022, 9:47:07 - INFO - Server is running on port: 3030 
+3.10.2022, 9:47:07 - INFO - New connected socket [id: Dt1JenPbIv9iIlPcAAAB] 
+3.10.2022, 9:47:11 - INFO - New connected socket [id: PcPA-uZmlnWJMWKOAAAD] 
+3.10.2022, 9:47:48 - INFO - User loggedout successfully 
+3.10.2022, 9:47:48 - INFO - Removing socket.userId for socket [id: Dt1JenPbIv9iIlPcAAAB] 
+3.10.2022, 9:47:53 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 9:50:23 - DEBUG - Getting Gigs 
+3.10.2022, 9:50:51 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 9:51:00 - INFO - New connected socket [id: vliV8cd51eEKmY3-AAAF] 
+3.10.2022, 9:56:49 - INFO - Server is running on port: 3030 
+3.10.2022, 9:56:52 - INFO - New connected socket [id: SnUN1hFIUADVqDdWAAAB] 
