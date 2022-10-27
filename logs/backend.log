@@ -333,3 +333,20 @@
 3.10.2022, 11:53:52 - INFO - Server is running on port: 3030 
 3.10.2022, 11:53:53 - INFO - New connected socket [id: xZ98K6LSFH4h8ldJAAAC] 
 3.10.2022, 11:53:53 - INFO - New connected socket [id: gplVyLNgb9Odc69gAAAD] 
+3.10.2022, 11:57:40 - INFO - Socket disconnected [id: undefined] 
+3.10.2022, 11:57:46 - INFO - Socket disconnected [id: undefined] 
+27.10.2022, 17:25:10 - INFO - Server is running on port: 3030 
+27.10.2022, 17:29:22 - INFO - New connected socket [id: Nrs_LNlgo1LqgktiAAAB] 
+27.10.2022, 17:29:22 - DEBUG - Getting categories 
+27.10.2022, 17:30:38 - DEBUG - Getting Gigs 
+27.10.2022, 17:35:08 - DEBUG - auth.service - login with username: a 
+27.10.2022, 17:35:10 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+27.10.2022, 17:35:10 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Nrs_LNlgo1LqgktiAAAB] 
+27.10.2022, 17:35:10 - DEBUG - auth.service - login with username: a 
+27.10.2022, 17:35:10 - INFO - User login:  | {"_id":"63330f9288db0b425447f2f1","username":"a","fullname":"Aharon M","imgUrl":"https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/7928a9bdb9e68c7dcc870f7dac91d92b-768025031598387384699/JPEG_20200826_012943_1616096493516260103.jpg","score":100} 
+27.10.2022, 17:35:10 - INFO - Setting socket.userId = 63330f9288db0b425447f2f1 for socket [id: Nrs_LNlgo1LqgktiAAAB] 
+27.10.2022, 17:35:37 - DEBUG - Getting Gigs 
+27.10.2022, 17:35:46 - DEBUG - Getting Gigs 
+27.10.2022, 17:36:45 - DEBUG - Getting categories 
+27.10.2022, 17:36:45 - DEBUG - Getting Gigs 
+27.10.2022, 17:36:46 - DEBUG - Getting Gigs 
